@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "Skill(deep-research)",
+      "WebFetch(domain:www.apartments.com)"
+    ]
+  }
+}

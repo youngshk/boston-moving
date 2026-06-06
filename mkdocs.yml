@@ -1,0 +1,44 @@
+site_name: Alewife 아파트 시장조사
+site_description: 캠브리지 Alewife 역 인근 스튜디오·1베드 렌탈 시장조사 (2026-06 기준)
+theme:
+  name: material
+  language: ko
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: 다크 모드로 전환
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: 라이트 모드로 전환
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - navigation.indexes
+    - content.code.copy
+    - toc.follow
+markdown_extensions:
+  - tables
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  - toc:
+      permalink: true
+nav:
+  - 개요: index.md
+  - 비교표: comparison.md
+  - 사인업 보너스 & 시즌성: promotions.md
+  - 단지 상세:
+      - "Tier 1 · Alewife 도보 2-6분": tier1.md
+      - "Tier 2 · Concord Tpke / Fawcett St": tier2.md
+      - "Tier 3 · Cambridge Highlands / Fresh Pond": tier3.md
+      - "Tier 4 · Belmont / Porter (참고)": tier4.md
