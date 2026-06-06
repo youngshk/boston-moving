@@ -51,24 +51,24 @@
 
 아래 별점·리뷰 수는 **2026-06-06 Google Maps에서 직접(Playwright) 추출한 라이브 값**입니다. 평점 높은 순 정렬. **리뷰 수가 적을수록(특히 한 자릿수) 평점 1개가 평균을 크게 흔드므로** 숫자를 그대로 신뢰하기 어렵습니다. 자세한 강점/약점·인용은 각 단지 상세 페이지 참고.
 
-| 단지 | Google 평점 (리뷰수, 라이브) | 한 줄 평 |
-|---|---|---|
-| Hanover Alewife | **4.8 (519)** | 평점·리뷰량 모두 최상위. **가장 신뢰할 만함** |
-| Vox on Two | **4.7 (150)** | Tier 2 최고. 청결·스태프 호평 (단 층간소음) |
-| The Laurent | **4.6 (135)** | 리뷰량 많고 평점 높음. 수리 호평 / 택배도난·방음 |
-| Urbane at Alewife | 4.5 (162) | 모던·스태프 호평 / 층간소음·엘베고장·택배도난 |
-| Cambridge Park | 4.5 (274) | 관리·위치 호평 / 건물 노후(2001) |
-| Walden Park | 4.4 (118) | 스태프·커뮤니티 호평 / (과거)해충·소음 |
-| The Royal Belmont | 4.0 (130) | 빠른 수리 / 방음 최악 평. (ApartmentRatings는 2.9) |
-| Park77 | 3.9 (16) | 청결·스태프 호평 / 배송·층간소음 |
-| Atmark Cambridge | 3.8 (221) | 위치 좋음 / 택배도난·관리전환 불만 |
-| Park87 | 3.8 (6) ⚠️ | 표본 작음. 위치 좋음 / 창호·방음 부실 |
-| 603 Concord | 3.7 (6) ⚠️ | 표본 매우 작음. 빠른 수리 / 게스트주차 |
-| Luxe at Alewife | 3.6 (82) | **이 그룹 최저권.** 어메니티 / 화재경보·마감·벽 |
-| Tempo Cambridge | 3.6 (115) | 관리 호평/빌드품질·주차 비판 갈림 |
-| 605 Concord | 1.5 (2) ⚠️ | 신축(2025), 리뷰 2건뿐 — **평점 무의미** |
-| The Brook | 1.0 (1) ⚠️ | 리뷰 1건뿐 — **평점 무의미** (별도 텍스트 리뷰는 부정적) |
-| Chester Street | Google 등록 없음 | 검색 시 매칭되는 Google 플레이스 없음 (미평가) |
+| 단지 | Google 평점 (리뷰수, 라이브) | Google 리뷰 | 한 줄 평 |
+|---|---|---|---|
+| Hanover Alewife | **4.8 (519)** | [리뷰 보기](https://www.google.com/maps/search/Hanover+Alewife+130+Cambridgepark+Dr+Cambridge+MA) | 평점·리뷰량 모두 최상위. **가장 신뢰할 만함** |
+| Vox on Two | **4.7 (150)** | [리뷰 보기](https://www.google.com/maps/search/Vox+on+Two+223+Concord+Turnpike+Cambridge+MA) | Tier 2 최고. 청결·스태프 호평 (단 층간소음) |
+| The Laurent | **4.6 (135)** | [리뷰 보기](https://www.google.com/maps/search/The+Laurent+55+Wheeler+St+Cambridge+MA) | 리뷰량 많고 평점 높음. 수리 호평 / 택배도난·방음 |
+| Urbane at Alewife | 4.5 (162) | [리뷰 보기](https://www.google.com/maps/search/Urbane+at+Alewife+50+Cambridgepark+Dr+Cambridge+MA) | 모던·스태프 호평 / 층간소음·엘베고장·택배도난 |
+| Cambridge Park | 4.5 (274) | [리뷰 보기](https://www.google.com/maps/search/Cambridge+Park+Apartments+30+Cambridge+Park+Dr+Cambridge+MA) | 관리·위치 호평 / 건물 노후(2001) |
+| Walden Park | 4.4 (118) | [리뷰 보기](https://www.google.com/maps/search/Walden+Park+Apartments+205+Walden+St+Cambridge+MA) | 스태프·커뮤니티 호평 / (과거)해충·소음 |
+| The Royal Belmont | 4.0 (130) | [리뷰 보기](https://www.google.com/maps/search/The+Royal+Belmont+375+Acorn+Park+Dr+Belmont+MA) | 빠른 수리 / 방음 최악 평. (ApartmentRatings는 2.9) |
+| Park77 | 3.9 (16) | [리뷰 보기](https://www.google.com/maps/search/Park77+Apartments+77+New+St+Cambridge+MA) | 청결·스태프 호평 / 배송·층간소음 |
+| Atmark Cambridge | 3.8 (221) | [리뷰 보기](https://www.google.com/maps/search/Atmark+Cambridge+80+Fawcett+St+Cambridge+MA) | 위치 좋음 / 택배도난·관리전환 불만 |
+| Park87 | 3.8 (6) ⚠️ | [리뷰 보기](https://www.google.com/maps/search/Park87+Apartments+87+New+St+Cambridge+MA) | 표본 작음. 위치 좋음 / 창호·방음 부실 |
+| 603 Concord | 3.7 (6) ⚠️ | [리뷰 보기](https://www.google.com/maps/search/603+Concord+Apartments+Cambridge+MA) | 표본 매우 작음. 빠른 수리 / 게스트주차 |
+| Luxe at Alewife | 3.6 (82) | [리뷰 보기](https://www.google.com/maps/search/Luxe+at+Alewife+80+Cambridgepark+Dr+Cambridge+MA) | **이 그룹 최저권.** 어메니티 / 화재경보·마감·벽 |
+| Tempo Cambridge | 3.6 (115) | [리뷰 보기](https://www.google.com/maps/search/Tempo+Cambridge+203+Concord+Turnpike+Cambridge+MA) | 관리 호평/빌드품질·주차 비판 갈림 |
+| 605 Concord | 1.5 (2) ⚠️ | [리뷰 보기](https://www.google.com/maps/search/605+Concord+at+Fresh+Pond+Cambridge+MA) | 신축(2025), 리뷰 2건뿐 — **평점 무의미** |
+| The Brook | 1.0 (1) ⚠️ | [리뷰 보기](https://www.google.com/maps/search/The+Brook+Luxury+Apartments+95+Fawcett+St+Cambridge+MA) | 리뷰 1건뿐 — **평점 무의미** (별도 텍스트 리뷰는 부정적) |
+| Chester Street | Google 등록 없음 | — | 검색 시 매칭되는 Google 플레이스 없음 (미평가) |
 
 ⚠️ = 리뷰 수가 한 자릿수~극소라 평점 신뢰 불가.
 
