@@ -18,8 +18,8 @@
 | **가장 좋은 사인업 보너스(공식 확인)** | The Royal Belmont (1개월 무료, 6/21 입주), The Laurent ($1,000 off, 24시간 내 신청) |
 | **유틸리티 포함 혜택** | Cambridge Park(난방+쓰레기), 603·605·Park77(난방+온수), Walden Park(가스·물·난방·인터넷·케이블 등) |
 | **주차비 공개된 곳** | Cambridge Park $100-150, The Laurent $250, The Brook $250, 603 Concord 차고$195/노상$155, Walden Park $175, Chester St $125 |
-| **거주자 평점 최고 (Google)** | Hanover (~4.7·681건, 신뢰도 최상), Vox on Two (4.7·175건) |
-| **평판 주의 / 부정 평** | Luxe (~3.7, 화재경보·마감), The Brook (관리·주차 침수), Royal Belmont (방음), Atmark (택배도난) |
+| **거주자 평점 최고 (라이브 Google)** | Hanover (4.8·519건, 신뢰도 최상), Vox on Two (4.7·150건), The Laurent (4.6·135건) |
+| **평판 주의 / 부정 평** | Luxe·Tempo (3.6), Atmark (3.8, 택배도난), Royal Belmont (4.0이나 방음 혹평) / The Brook·605 Concord는 리뷰 1-2건뿐이라 평점 무의미 |
 
 자세한 비교는 **[비교표](comparison.md)**, 단지별 디테일은 좌측 **단지 상세** 메뉴, 프로모션·시즌성은 **[사인업 보너스 & 시즌성](promotions.md)** 참고.
 
