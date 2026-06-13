@@ -19,6 +19,24 @@ Alewife 역 인근 18개 단지를 지도에 표시했습니다. **마커 색은
     - Tier 4(보라색)는 Alewife에서 다소 떨어져 있어 지도를 줄이면 동쪽(Porter/Davis)에 보입니다.
     - 가격은 **2026-06-13** 조사 시점 시작가 기준이며 변동됩니다. 상세는 [비교표](comparison.md)·단지 상세 참고.
 
+## Alewife 역 주차 (Park & Ride)
+
+Alewife는 Red Line 종점이라 **대형 환승 주차 차고**가 있습니다. 차가 있다면 단지 자체 주차 외에 이 차고도 옵션입니다.
+
+| 항목 | 내용 |
+|---|---|
+| **시설** | 8층 차고, **2,471면** (MBTA 최대급 park-and-ride) |
+| **요금** | **평일 $9/일 · 주말 $3/일** |
+| **야간 주차** | 가능(overnight allowed) |
+| **장애인 주차** | 32면 |
+| **월정액** | MBTA 차고는 **월권 없음** — 대신 탭카드/PayByPhone로 일·주 단위 선불 가능 |
+| **결제** | PayByPhone(location **4241**) 또는 우편 청구(+$1 수수료). 운영 Keolis |
+
+!!! note "단지 주차 vs 역 차고"
+    평일 매일 통근에 역 차고를 쓰면 $9×~22일 ≈ **월 ~$198** 상당이라, 단지 자체 주차(예: Cambridge Park $100–150, Walden Park $175, 603 차고 $195)와 큰 차이는 없습니다. 차고는 주로 **방문객·임시 주차**나 단지 주차가 만차일 때 백업으로 유용합니다. 단지별 주차비는 [비교표](comparison.md) 참고.
+    
+    *출처: [MBTA Alewife](https://www.mbta.com/stops/place-alfcl), [MBTA Stations & Rates](https://www.mbta.com/parking/stations-and-rates) (2026-06 확인).*
+
 <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
 
@@ -38,7 +56,7 @@ Alewife 역 인근 18개 단지를 지도에 표시했습니다. **마커 색은
     };
 
     var places = [
-      {n:'Alewife 역 (Red Line 종점)', lat:42.39600, lng:-71.14128, t:'station', d:'MBTA Red Line 종점 · 버스 환승 · 차고'},
+      {n:'Alewife 역 (Red Line 종점)', lat:42.39600, lng:-71.14128, t:'station', d:'MBTA Red Line 종점 · 버스 환승 · 차고 2,471면(평일 $9/주말 $3, 야간 가능)'},
       {n:'Cambridge Park', lat:42.39401, lng:-71.14311, t:1, d:'스튜디오 가용없음 · 1BR $3,699~(727sf, 공식) · 프로모 없음 · 난방·쓰레기 포함'},
       {n:'Urbane at Alewife', lat:42.39409, lng:-71.14384, t:1, d:'스튜디오 ~$2,969 · 1BR ~$3,007 · 2주 무료(미확인)'},
       {n:'Luxe at Alewife', lat:42.39300, lng:-71.14189, t:1, d:'스튜디오 ~$3,003 · 1BR ~$3,325 · 1개월 무료+$99(공식)'},

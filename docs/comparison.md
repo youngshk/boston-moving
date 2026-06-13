@@ -9,8 +9,13 @@
 
 ## 실측 도보 거리 (Alewife 역까지)
 
-!!! warning "Tier ≠ 거리 순서 — 동네 클러스터로 묶은 것"
-    Tier는 **거리 띠가 아니라 동네 묶음**입니다(Tier 2 = Concord Tpke·**Fawcett St**, Tier 3 = Cambridge Highlands·**Fresh Pond**). 그래서 실제 거리가 역전되는 경우가 있습니다 — 대표적으로 **Atmark(Tier 2)는 ~19분으로, Tier 3의 The Laurent(~16분)·603/605/Park77·87(~14분)보다 오히려 멉니다.** The Brook(Tier 2)도 ~20분으로 Tier 3 클러스터보다 멉니다. **거리만 본다면 아래 표(실측 순)를 기준**으로 삼으세요.
+!!! warning "Tier ≠ 거리 순서 — 동네 클러스터로 묶은 것 (경계가 모호함)"
+    Tier는 **거리 띠가 아니라 동네 묶음**입니다(Tier 2 = Concord Tpke·**Fawcett St**, Tier 3 = Cambridge Highlands·**Fresh Pond**). 이 묶음은 원래 "거리 이름" 기준이라 경계에서 어긋납니다:
+
+    - **Atmark(Tier 2, 80 Fawcett St)와 The Laurent(Tier 3, 55 Wheeler St)는 사실상 같은 블록 — 직선 69m, 도보 3분 거리의 바로 옆 단지**입니다. 그런데 Tier가 갈린 건, Fawcett St는 원래 The Brook과 함께 "Concord Tpke/Fawcett 묶음(T2)"으로, Wheeler St·Concord Ave는 "Fresh Pond 묶음(T3)"으로 분류했기 때문입니다. **거리·환경상으론 둘을 같은 그룹으로 보는 게 맞습니다.**
+    - 실제 거리도 역전됩니다 — **Atmark(T2) ~19분이 The Laurent(T3) ~16분·603/605/Park77·87(~14분)보다 멉니다.** The Brook(T2)도 ~20분.
+    
+    → **거리만 본다면 아래 표(실측 순)를, 동네 환경은 Atmark·The Brook을 Wheeler/Concord Ave(Fresh Pond) 쪽과 함께** 보세요.
 
 아래는 각 단지 정문 좌표에서 **Alewife 역까지 실제 보행 네트워크 경로**를 측정한 값입니다(OpenStreetMap 기반 보행 라우팅, OSRM foot). 보행 속도 ~5km/h 가정. **Google 도보 길찾기 링크**로 직접 대조할 수 있습니다.
 
