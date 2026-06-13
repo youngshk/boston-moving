@@ -1,6 +1,6 @@
 # 지도
 
-Alewife 역 인근 18개 단지를 지도에 표시했습니다. **마커 색은 Tier(역까지 거리 그룹)** 기준입니다. 마커를 클릭하면 단지명·가격·프로모션 요약이 뜹니다.
+Alewife 역 인근 17개 단지를 지도에 표시했습니다. **마커 색은 Tier(역까지 거리 그룹)** 기준입니다. 마커를 클릭하면 단지명·가격·프로모션 요약이 뜹니다.
 
 <div id="alewife-map" style="height: 600px; border-radius: 8px; margin: 1rem 0; z-index: 0;"></div>
 
@@ -73,8 +73,7 @@ Alewife는 Red Line 종점이라 **대형 환승 주차 차고**가 있습니다
       {n:'Park87', lat:42.38980, lng:-71.13948, t:3, d:'스튜디오 없음 · 1BR Plus ~$3,100 · 1BR 2주 무료(정황)'},
       {n:'Park77', lat:42.38930, lng:-71.14005, t:3, d:'스튜디오/1BR 가격 비공개 · 난방·온수 포함'},
       {n:'The Royal Belmont', lat:42.39921, lng:-71.15447, t:4, d:'(Belmont) 스튜디오 없음 · 1BR ~$2,870 · 1개월 무료(6/21/26 마감)'},
-      {n:'Walden Park', lat:42.38709, lng:-71.12967, t:4, d:'(Porter) 스튜디오 $2,490~ · 1BR $2,860~(공식) · 유틸 다수 포함'},
-      {n:'Chester Street', lat:42.39360, lng:-71.12481, t:4, d:'(Porter/Davis) 스튜디오 ~$2,200(최저가) · 1BR 공실없음 · 1개월 무료(전 공실)'}
+      {n:'Walden Park', lat:42.38709, lng:-71.12967, t:4, d:'(Porter) 스튜디오 $2,490~ · 1BR $2,860~(공식) · 유틸 다수 포함'}
     ];
 
     var map = L.map('alewife-map').setView([42.3935, -71.1410], 14);

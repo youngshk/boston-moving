@@ -44,7 +44,7 @@ TARGETS = [
     ("park77", "https://www.park77aptscambridge.com/floorplans", []),
     ("royal_belmont", "https://www.harborgroupmanagement.com/apartments/ma/belmont/the-royal-belmont/floor-plans", []),
     ("walden_park", "https://www.equityapartments.com/boston/porter-square/walden-park-apartments", []),
-    ("chester_st", "https://chesterstreetapartments.com/floor-plans/", ["https://chesterstreetapartments.com/"]),
+    # Chester Street Apartments(9-15 Chester St)는 Davis/Porter 권역이라 2026-06-13 목록에서 제외.
 ]
 
 # JSON API 응답 중 가격/유닛 관련만 저장하기 위한 URL 키워드

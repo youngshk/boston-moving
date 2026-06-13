@@ -37,8 +37,7 @@
 | 14 | Atmark Cambridge | 2 | 1,399m (0.87mi) | ~19분 | [길찾기](https://www.google.com/maps/dir/?api=1&origin=42.39123,-71.14562&destination=42.39600,-71.14128&travelmode=walking) |
 | 15 | The Royal Belmont | 4 | 1,409m (0.87mi) | ~19분 | [길찾기](https://www.google.com/maps/dir/?api=1&origin=42.39921,-71.15447&destination=42.39600,-71.14128&travelmode=walking) |
 | 16 | The Brook | 2 | 1,495m (0.93mi) | ~20분 | [길찾기](https://www.google.com/maps/dir/?api=1&origin=42.39313,-71.14692&destination=42.39600,-71.14128&travelmode=walking) |
-| 17 | Chester Street | 4 | 1,603m (1.00mi) | ~21분 | [길찾기](https://www.google.com/maps/dir/?api=1&origin=42.39360,-71.12481&destination=42.39600,-71.14128&travelmode=walking) |
-| 18 | Walden Park | 4 | 1,836m (1.14mi) | ~24분 | [길찾기](https://www.google.com/maps/dir/?api=1&origin=42.38709,-71.12967&destination=42.39600,-71.14128&travelmode=walking) |
+| 17 | Walden Park | 4 | 1,836m (1.14mi) | ~24분 | [길찾기](https://www.google.com/maps/dir/?api=1&origin=42.38709,-71.12967&destination=42.39600,-71.14128&travelmode=walking) |
 
 !!! note "측정 방법·오차"
     - 출발점은 각 단지 정문 좌표, 도착점은 Alewife 역 노드(42.39600, -71.14128). **건물 입구·역 출입구(차고/버스웨이/플랫폼)를 어디로 잡느냐에 따라 ±1–2분** 차이가 납니다.
@@ -66,7 +65,6 @@
 | The Brook | 3 | ~20분 | 없음 | — | $2,925–3,300 | 671–983 sf | 95 Fawcett St · #506 신규 추가 |
 | The Royal Belmont | 4 | ~19분 | 가용 없음 (공식✓) | 596 sf | **$2,870–3,190** (공식✓) | 632–1,062 sf | 1BR 13세대(752sf ~$2,875×다수) |
 | Walden Park *(Porter)* | 4 | ~24분 | **$2,490+** (공식✓) | 539 sf | **$2,860+** (공식✓) | 625–760 sf | 스튜디오3·1BR6 가용 |
-| Chester Street *(Porter/Davis)* | 4 | ~21분 | **$2,200–2,400** (공식✓) | 380 sf | 가용 없음 (공식✓) | — | 스튜디오 6세대, 최저가 |
 
 ## 보너스 · 주차 · 세탁기 · 유틸 · 무브인
 
@@ -89,7 +87,6 @@
 | The Brook | 공식 없음 / aggregator "노브로커피·1개월 무료" *(미확인)* | $250/월 차고 | 예 | n/p | 1BR 9/1 |
 | The Royal Belmont | **"6/21/26까지 입주 시 1개월 무료"** (공식, 유지) | 차고, n/p | 예 (stackable) | n/p | 1BR 다수 (Norbert 10세대) |
 | Walden Park *(Porter)* | 없음(보증금 특가 만료) | $175/월(추정) | 미확인 | **가스·물·난방·쓰레기·하수·케이블·인터넷** | 문의 |
-| Chester Street *(Porter/Davis)* | **"1개월 무료 — 전 공실 대상"**(aggregator, 문구 확대) | $125/월 (세대당 1대) | 아니오 (공용 세탁실) | 난방·물 | 스튜디오 즉시~11월 |
 
 !!! note "사인업 보너스 \"공식 / 미확인\"의 의미"
     **(공식)** = 단지 공식 사이트(또는 공식 RentCafe 피드) 배너에서 직접 확인. **(미확인)** = aggregator(Apartments.com 등)에만 있어 전화 확인 필요. 이번 회차에서 **Luxe·Atmark는 "미확인→공식 확인"으로 격상**되었고, **603 Concord는 새 "한정 특가"가 등장**했습니다.
@@ -120,11 +117,9 @@
 | Tempo Cambridge | 3.6 (115) | [리뷰 보기](https://www.google.com/maps/search/Tempo+Cambridge+203+Concord+Turnpike+Cambridge+MA) | 관리 호평/빌드품질·주차 비판 갈림 |
 | 605 Concord | 1.5 (2) ⚠️ | [리뷰 보기](https://www.google.com/maps/search/605+Concord+at+Fresh+Pond+Cambridge+MA) | 신축(2025), 리뷰 2건뿐 — **평점 무의미** |
 | The Brook | 1.0 (1) ⚠️ | [리뷰 보기](https://www.google.com/maps/search/The+Brook+Luxury+Apartments+95+Fawcett+St+Cambridge+MA) | 리뷰 1건뿐 — **평점 무의미** (별도 텍스트 리뷰는 부정적) |
-| Chester Street | Google 등록 없음 | — | 검색 시 매칭되는 Google 플레이스 없음 (미평가) |
 
 ⚠️ = 리뷰 수가 한 자릿수~극소라 평점 신뢰 불가. † = 06-13 신규 추가 단지로, 평점은 검색 기준이며 **라이브 Google 추출은 다음 패스에서 보강** 예정.
 
 !!! warning "리뷰 데이터 주의"
     - **리뷰 수가 적은 곳(The Brook 1건, 605 Concord 2건, 603·Park87 6건)은 평점이 사실상 의미 없습니다.** 텍스트 리뷰 내용(상세 페이지)을 보세요.
-    - **Chester Street**는 Google Maps에 매칭되는 플레이스가 없습니다(검색 시 뜨는 4.4는 Allston의 무관한 광고 매물이니 사용 금지).
     - **공통적으로 가장 많은 불만은 "층간/벽간 방음"과 "택배 도난"** — 거의 모든 단지에서 반복됩니다.

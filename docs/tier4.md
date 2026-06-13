@@ -1,6 +1,9 @@
 # Tier 4 · Belmont / Porter (참고용)
 
-Alewife에서 다소 떨어졌거나 행정구역이 다른 단지들. The Royal Belmont은 Rt-2 건너 East Belmont라 사실상 Alewife 인접이고, Walden Park·Chester Street는 실제로는 **Porter/Davis Square** 권역이라 Alewife와는 거리가 있습니다(참고용으로 포함).
+Alewife에서 다소 떨어졌거나 행정구역이 다른 단지들. The Royal Belmont은 Rt-2 건너 East Belmont라 사실상 Alewife 인접이고, Walden Park는 실제로는 **Porter Square** 권역이라 Alewife와는 거리가 있습니다(참고용으로 포함).
+
+!!! note "Chester Street Apartments 제외 (2026-06-13)"
+    이전에 참고용으로 넣었던 **Chester Street Apartments(9-15 Chester St)는 목록에서 제외**했습니다. Davis/Porter Square 권역으로 **Alewife에서 ~1.5–2마일(도보 ~21분+)** 떨어져 사실상 Alewife 시장이 아니고, Google 등록도 없어 평판 검증이 어려웠습니다. (참고로 당시 스튜디오 380sf $2,200–2,400, 공용 세탁실, 난방 포함이었습니다.)
 
 ---
 
@@ -48,20 +51,3 @@ Alewife에서 다소 떨어졌거나 행정구역이 다른 단지들. The Royal
     - 👎 (주로 과거 리뷰) 해충(쥐·바퀴 1건), 층간소음·얇은 벽, 욕실 노후, 갱신/렌트 인상 정책. 최근 리뷰는 긍정 우세.
     - 💬 "even better staff. Julia and Krystal help everyone feel welcome." (~2026)
 - 출처: equityapartments.com(06-13 Playwright로 공식 라이브 availability 직접 렌더링 확인)
-
----
-
-## Chester Street Apartments *(실제로는 Porter/Davis Square)*
-**9-15 Chester St, Cambridge 02140**
-
-- **스튜디오 (공식 Knock API, 6세대):** **$2,200–2,400 / 380 sf** — **여전히 이 조사에서 가장 저렴.** #36 $2,200(즉시), #38 $2,300(8/2), #03 $2,300(9/2), #21 $2,300(11/2), #23 $2,400(6/2·7/2). 전부 스튜디오/1ba.
-- **1BR:** **현재 공실 없음**(공식 Knock에 1BR 평면 가용 0).
-- **사인업 보너스:** **"1 MONTH FREE RENT on ALL VACANT UNITS"** — 06-06 "select units"에서 **"전 공실 대상"으로 문구 확대**(aggregator, 공식 미게시).
-- **주차:** $125/월 (세대당 1대, 가용 시)
-- **In-unit 세탁/건조:** **아니오 — 공용 세탁실**
-- **유틸:** 난방 포함
-- **펫:** 펫피 $75/월 (ESA/서비스 동물 면제)
-- **이사 비용:** first + last + 보증금(1개월) 가능, 렌터스 인슈어런스 필수
-- **거리/교통:** Davis Sq 3블록, Porter Sq 5블록. **Alewife는 ~1.5–2마일 / 도보 30분+** (Alewife 권역 아님).
-- **거주자 평가:** **사실상 미평가.** **Google Maps에 매칭되는 플레이스 자체가 없고**(검색 시 뜨는 4.4·16건은 Allston의 무관한 광고 매물 — 사용 금지), Apartments.com·ApartmentList도 의미 있는 리뷰 없음. 나쁜 평이 아니라 **데이터 부재**이므로 방문·현장 확인이 특히 중요.
-- 출처: chesterstreetapartments.com Knock API(06-13 Playwright로 유닛 단위 라이브 직접 확인)

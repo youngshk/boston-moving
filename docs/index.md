@@ -15,12 +15,12 @@
 | 구분 | 단지 |
 |---|---|
 | **Alewife에 가장 가까움** | Cambridge Park (도보 2-3분, 길 건너), Urbane (2-4분), Luxe (3-6분), Hanover·Windsor·Fuse (4-6분, 같은 거리) |
-| **가장 저렴한 스튜디오** | Chester St (~$2,200, 단 Davis Sq), **The Laurent (~$2,370, 06-13 인하)**, Walden Park (~$2,490, 공식✓), Atmark (~$2,575) |
+| **가장 저렴한 스튜디오** | **The Laurent (~$2,370, 06-13 인하)**, Walden Park (~$2,490, 공식✓), Atmark (~$2,575), Tempo (~$2,635) |
 | **가장 저렴한 1BR** | The Laurent (~$2,767), Atmark (~$2,817, 공식✓), Walden Park (~$2,860, 공식✓), Royal Belmont (~$2,870, 공식✓) |
 | **가장 좋은 사인업 보너스(공식 확인)** | The Royal Belmont (1개월 무료, 6/21 마감 임박), The Laurent ($1,000 off), **Luxe (1개월 무료+$99)**, **Atmark (1개월 무료)** |
 | **어포더블(소득제한) 유닛** | The Laurent(~100세대) 등 다수 신축 — 신청은 케임브리지 시 CDD 풀 경유 → [어포더블](affordable.md) |
 | **유틸리티 포함 혜택** | Cambridge Park(난방+쓰레기), 603·605·Park77(난방+온수), Walden Park(가스·물·난방·인터넷·케이블 등) |
-| **주차비 공개된 곳** | Cambridge Park $100-150, The Laurent $250, The Brook $250, 603 Concord 차고$195/노상$155, Walden Park $175, Chester St $125 |
+| **주차비 공개된 곳** | Cambridge Park $100-150, The Laurent $250, The Brook $250, 603 Concord 차고$195/노상$155, Walden Park $175 |
 | **거주자 평점 최고 (라이브 Google)** | Hanover (4.8·519건, 신뢰도 최상), Vox on Two (4.7·150건), The Laurent (4.6·135건) |
 | **평판 주의 / 부정 평** | Luxe·Tempo (3.6), Atmark (3.8, 택배도난), Royal Belmont (4.0이나 방음 혹평) / The Brook·605 Concord는 리뷰 1-2건뿐이라 평점 무의미 |
 
@@ -34,7 +34,7 @@
     
     - **⚠️ Cambridge Park** — aggregator의 "스튜디오 ~$3,140 / 1BR $3,276"은 **부정확**. 공식엔 **스튜디오 가용 0, 1BR은 727sf $3,699부터**.
     - **Atmark 1BR $2,817부터**, **Walden Park 스튜디오 $2,490 / 1BR $2,860부터** (공식이 aggregator보다 저렴).
-    - **Royal Belmont·Chester St** 전 유닛 호수·가격·입주일 확보. **605 Concord 스튜디오 입주일 6/19 확정**.
+    - **Royal Belmont** 전 유닛 호수·가격·입주일 확보. **605 Concord 스튜디오 입주일 6/19 확정**.
 
 자세한 비교는 **[비교표](comparison.md)**, 위치는 **[지도](map.md)**, 소득제한은 **[어포더블](affordable.md)**, 프로모션·리퍼럴·시즌성은 **[사인업 보너스 & 시즌성](promotions.md)** 참고.
 
@@ -45,7 +45,7 @@
 - **Tier 1 — Cambridgepark Dr 클러스터 (실측 ~5-10분):** Cambridge Park, Urbane, Luxe, Hanover, Windsor at Cambridge Park, Fuse. 역에서 가장 가깝고 가장 새 건물들. 가격대는 중상위.
 - **Tier 2 — Concord Turnpike (실측 ~14분):** Vox on Two, Tempo. Rt-2 변 북서쪽, 세대수 많고 가성비.
 - **Tier 3 — Cambridge Highlands / Fresh Pond / Fawcett-Wheeler (실측 ~14-20분):** The Laurent, 603 Concord, 605 Concord, Park87, Park77, **Atmark, The Brook**. 일부는 난방·온수 포함. *(Atmark·The Brook은 06-13에 Tier 2에서 이동 — Fawcett St가 Wheeler St·Concord Ave와 같은 블록권이라.)*
-- **Tier 4 — Belmont / Porter (참고용, 실측 ~19-24분):** The Royal Belmont(East Belmont, Rt-2 건너), Walden Park·Chester St(실제로는 Porter/Davis Square — Alewife와는 거리가 있음).
+- **Tier 4 — Belmont / Porter (참고용, 실측 ~19-24분):** The Royal Belmont(East Belmont, Rt-2 건너), Walden Park(실제로는 Porter Square — Alewife와는 거리가 있음). *(Chester Street는 Davis/Porter라 06-13에 목록에서 제외.)*
 
 !!! info "조사 범위 — 누락 점검 결과 (Google 등 교차 확인)"
     시장가 임대 단지는 위 **18곳으로 사실상 완전**합니다. 추가 점검에서 확인된 것:
@@ -58,6 +58,6 @@
 
 - **역과의 거리 최우선 + 유틸 포함** → **Cambridge Park** (길 건너, 난방·쓰레기 포함, 주차 $100-150). 단, 소형 유닛도 비싼 편이고 현재 프로모션 없음.
 - **새 건물 + 공식 보너스** → **Luxe**(1개월 무료+보증금 $99, **06-13 공식 확인**) 또는 **Atmark**(1개월 무료, **공식 확인**). Urbane은 2주 무료가 공식엔 안 떠서(aggregator만) 전화 확인 권장.
-- **가격 최우선** → **The Laurent**(스튜디오 ~$2,370부터로 06-13 인하 + $1,000 off, 공실 많아 협상 유리), **Tempo·Atmark**, 또는 (Davis Sq 감수 시) **Chester St ~$2,200**.
+- **가격 최우선** → **The Laurent**(스튜디오 ~$2,370부터로 06-13 인하 + $1,000 off, 공실 많아 협상 유리), **Tempo·Atmark**(~$2,575–2,635), 또는 유틸 포함 감안 시 **Walden Park ~$2,490**(단 Porter).
 - **확실한 1개월 무료를 지금 받고 싶다** → **The Royal Belmont**(6/21/26 입주 마감 임박) 또는 **The Laurent**($1,000 off, 24시간 내 신청), **Luxe·Atmark**(1개월 무료). 단 Royal Belmont는 East Belmont라 셔틀 의존.
 - **어포더블(소득제한) 자격이 될 수도** → 연소득이 1인 ~$96k / 2인 ~$110k 이하라면 케임브리지 인클루저너리 대상일 수 있음. 시장가와 **병행 등록** 권장 → [어포더블](affordable.md).
