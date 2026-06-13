@@ -10,6 +10,8 @@ Fresh Pond 저수지 인근 Cambridge Highlands(02138) 클러스터 + 바로 붙
 ## The Laurent
 **55 Wheeler St, Cambridge 02138** · Bozzuto · 2023년 건축 · ~7층("5 over 2") · 3개동 · 525세대(어포더블 100)
 
+🌐 [공식 사이트](https://www.livethelaurent.com) · 📍 [Google 지도](https://www.google.com/maps/search/The+Laurent+55+Wheeler+St+Cambridge+MA)
+
 - **스튜디오:** **$2,370–2,626 / 451–525 sf** — **06-13 전 평면 시작가 약 $157–168 인하** (공실 많아 가격 약세). 평면 4종:
     - S1 451sf ~$2,427(7세대) · S2 482sf ~$2,370(2) · S3 525sf ~$2,626(1) · S4 500sf ~$2,456(2)
 - **1BR:** ~$2,767–3,437 / 583–860 sf (06-06 $2,910–3,632 대비 **전반 하향**). A20 643sf ~$2,786, A6 613sf ~$2,882(3채), A7 743sf ~$3,032(4채), Jr S5 628sf ~$2,966(5채).
@@ -32,6 +34,8 @@ Fresh Pond 저수지 인근 Cambridge Highlands(02138) 클러스터 + 바로 붙
 ## 603 Concord
 **603 Concord Ave, Cambridge 02138** · 2016년 건축 · 6층 · 61세대
 
+🌐 [공식 사이트](https://www.603concord.com) · 📍 [Google 지도](https://www.google.com/maps/search/603+Concord+Ave+Cambridge+MA)
+
 - **스튜디오:** $3,000부터 / 401–423 sf (평면 1종, **"Only 1 Left"**, 7/2 입주, #309=3층) — **06-06과 동일 유닛·동일가, 아직 미임대.**
 - **1BR:** $3,100부터 / 559–840 sf (평면 1종, **"Only 2 Left"**, 7/5 입주; #402 $3,100, #503 $3,200) — 06-06과 동일.
 - **사인업 보너스:** **06-13 변경 — 공식 RentCafe에 "ANNOUNCING A LIMITED TIME SPECIAL: PLEASE CALL TODAY" 신규 등장**(내용 비공개, 06-06엔 "No offers"였음). 정확한 조건은 617-996-7051 확인. aggregator의 "1개월 무료"는 여전히 미확인.
@@ -51,6 +55,8 @@ Fresh Pond 저수지 인근 Cambridge Highlands(02138) 클러스터 + 바로 붙
 ## 605 Concord at Fresh Pond
 **605 Concord Ave, Cambridge 02138** · 2025년 건축(신축, 오픈) · 6층 · 49세대
 
+🌐 [공식 사이트](https://www.605concord.com) · 📍 [Google 지도](https://www.google.com/maps/search/605+Concord+Ave+Cambridge+MA)
+
 - **스튜디오(공식 라이브 확인):** **$2,850부터 / 512 sf, 입주 6/19 확정** — 06-06의 6/19 vs 6/30 혼선은 **공식 사이트 기준 6/19로 확정.** 아직 미임대.
 - **1BR(공식 라이브):** 719 sf "전화 문의"(가격 미표기), "Micro 1 Bedroom" 575sf도 가격 미표기. 명시가 없는 상태 유지.
 - **사인업 보너스:** **06-13 명시 오퍼 없음 → "전화 문의"로 전환**(06-06의 "2BR 2개월 무료"도 사라짐).
@@ -65,6 +71,8 @@ Fresh Pond 저수지 인근 Cambridge Highlands(02138) 클러스터 + 바로 붙
 
 ## Park87
 **87 New St, Cambridge 02138** · Abodez/RentCafe 계열
+
+🌐 [공식 사이트](https://www.park87.com) · 📍 [Google 지도](https://www.google.com/maps/search/Park87+87+New+St+Cambridge+MA)
 
 - **스튜디오:** 없음 (1/2/3BR만)
 - **1BR:** 기본형 787sf "pricing upon request"(여전히 명시가 없음) · **"1 Bedroom Plus" 768–787 sf**: #112 $3,100 (6/15 입주, 06-06부터 잔존·임박) + **#405 $3,250 신규 추가(6/15)**.
@@ -83,6 +91,8 @@ Fresh Pond 저수지 인근 Cambridge Highlands(02138) 클러스터 + 바로 붙
 
 ## Park77
 **77 New St, Cambridge 02138** · Abodez/RentCafe 계열
+
+🌐 [공식 사이트](https://www.park77aptscambridge.com) · 📍 [Google 지도](https://www.google.com/maps/search/Park77+77+New+St+Cambridge+MA)
 
 - **스튜디오:** ~444 sf — **"Pricing upon request"** (06-06 ~$2,500–2,800대였으나 06-13엔 가격 비노출, 명시 가능 유닛 없음).
 - **1BR:** ~741 sf — **06-13 "Pricing upon request"로 숨김 전환**(06-06엔 #218 ~$3,325 "Only 1 Left" 8/6였음; 임대/비노출 확인 불가). 라이브 가능 유닛은 2BR뿐(#207 $4,600 6/29 등).
@@ -103,6 +113,8 @@ Fresh Pond 저수지 인근 Cambridge Highlands(02138) 클러스터 + 바로 붙
 ## Atmark Cambridge
 **80 Fawcett St, Cambridge 02138** · Greystar (공식 liveatmark.com) · 2014년 건축 · 5층 · 428세대 · *(2026-06-13 Tier 2→3 이동)*
 
+🌐 [공식 사이트](https://liveatmark.com) · 📍 [Google 지도](https://www.google.com/maps/search/Atmark+Cambridge+80+Fawcett+St+Cambridge+MA)
+
 - **스튜디오:** ~$2,575–2,717 / 569–588 sf (06-06 대비 소폭↓, 663sf 매물 소진·588sf S5 신규). 라이브(RentCafe): S5 #2-426 588sf $2,575 (6/20), S2 #373 569sf $2,622 (8/8).
 - **1BR (공식 라이브 확인):** **$2,817부터** / 725–740 sf — 740sf $2,817 (즉시입주), 725sf $2,933 (7/21), $2,974/$3,049/$3,054/$3,134 등(13개월 계약 기준). RentCafe 표기($2,990~)보다 공식 사이트가 더 낮음.
 - **사인업 보너스(공식 확인):** **"1 MONTH FREE BASE RENT!"** — 공식 사이트 배너에서 직접 확인(06-06의 "1개월 vs 0.5개월" 혼선 해소).
@@ -122,6 +134,8 @@ Fresh Pond 저수지 인근 Cambridge Highlands(02138) 클러스터 + 바로 붙
 
 ## The Brook Luxury Apartments
 **95 Fawcett St, Cambridge 02138** · 2021년 건축 · 5층 · 42세대 · *(2026-06-13 Tier 2→3 이동)*
+
+🌐 [공식 사이트](https://thebrookcambridge.com) · 📍 [Google 지도](https://www.google.com/maps/search/The+Brook+95+Fawcett+St+Cambridge+MA)
 
 - **스튜디오:** 없음 (1BR/2BR/3BR만)
 - **1BR:** $2,925–3,300 / 671–983 sf (평면 9종). 현재 공실(공식 availability):

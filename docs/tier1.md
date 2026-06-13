@@ -10,6 +10,8 @@ Alewife 역에서 가장 가까운 6개 단지(Cambridgepark Dr 30·50·80·130�
 ## Cambridge Park Apartments
 **30 Cambridge Park Dr, Cambridge 02140** · Bozzuto 운영 · 2001년 건축 · 8층 · 312세대
 
+🌐 [공식 사이트](https://www.livecambridgepark.com) · 📍 [Google 지도](https://www.google.com/maps/search/Cambridge+Park+Apartments+30+Cambridge+Park+Dr+Cambridge+MA)
+
 !!! danger "06-13 공식 라이브(SightMap) 정정 — aggregator가 부정확했음"
     Cloudflare를 우회해 공식 SightMap API를 직접 읽은 결과, **현재 가용 유닛은 7세대뿐이며 전부 1BR(727sf)·2BR이고 스튜디오는 0개**입니다. 그동안 aggregator로 적었던 "스튜디오 ~$3,140 / 1BR ~$3,276 (698–701sf)"은 **stale/부정확**한 값이었습니다.
 
@@ -35,6 +37,8 @@ Alewife 역에서 가장 가까운 6개 단지(Cambridgepark Dr 30·50·80·130�
 ## Urbane at Alewife
 **50 Cambridgepark Dr, Cambridge 02140** · Greystar 운영 · 2022년 건축 · 8층 · ~295세대 · LEED
 
+🌐 [공식 사이트](https://urbaneatalewife.com) · 📍 [Google 지도](https://www.google.com/maps/search/Urbane+at+Alewife+50+Cambridgepark+Dr+Cambridge+MA)
+
 - **스튜디오:** ~$2,969–3,099 / 517–556 sf (06-06 ~$2,859 대비 ↑약 $110). 라이브 유닛(ApartmentList): S02 #240 517sf $2,969 (8/10), #740 $2,994 (6/20); S04 556sf #557 $3,098 (7/17), #757 $3,099 (6/27).
 - **1BR:** ~$3,007부터 / 634–754 sf — **06-06 $3,087 대비 ↓약 $80.** 즉시입주 신규 매물 A06 #425 698sf $3,007, A08 #458 715sf $3,061. 상단 A13 754sf $3,648~.
 - **사인업 보너스:** ⚠️ **상충** — 공식(Greystar)·ApartmentList엔 "**특가 없음**", Apartments.com/Rent.com엔 "**2주 무료**". 공식 채널 미확인이므로 **전화 확인 필요.**
@@ -54,6 +58,8 @@ Alewife 역에서 가장 가까운 6개 단지(Cambridgepark Dr 30·50·80·130�
 ## Luxe at Alewife
 **80 Cambridgepark Dr, Cambridge 02140** · Acorn/RentCafe 운영 · 2019년 건축 · 6층×2동 · 254세대
 
+🌐 [공식 사이트](https://www.luxealewife.com) · 📍 [Google 지도](https://www.google.com/maps/search/Luxe+at+Alewife+80+Cambridgepark+Dr+Cambridge+MA)
+
 - **스튜디오:** ~$3,003–3,170 / 540–636 sf — **06-06 대비 하단가 대폭↑**(저가 $2,752대 소진). 라이브(RentCafe 공식): A5 613sf #335 즉시 $3,003, A2 540sf #655 $3,095 (6/17), A7 612sf #627 $3,170 (6/16).
 - **1BR:** ~$3,325부터 / 738–896 sf — **06-06 $3,179 대비 ↑약 $146.** A10 738sf #406 $3,325 (8/21), A19 846sf #410 즉시 $3,450 등.
 - **사인업 보너스(공식 RentCafe 확인):** **"Up to 1 month free on select homes + $99 security deposit (approved credit)"** — 06-06엔 미확인이었으나 이번에 **공식 사이트에서 직접 확인됨.**
@@ -72,6 +78,8 @@ Alewife 역에서 가장 가까운 6개 단지(Cambridgepark Dr 30·50·80·130�
 
 ## Hanover Alewife
 **130 Cambridgepark Dr, Cambridge 02140** · 2017년 건축 · 6층 · 213세대
+
+🌐 [공식 사이트](https://www.hanoveralewife.com) · 📍 [Google 지도](https://www.google.com/maps/search/Hanover+Alewife+130+Cambridgepark+Dr+Cambridge+MA)
 
 !!! warning "공식 사이트 데이터 한계 (Cloudflare Turnstile)"
     Hanover 공식 가용 위젯은 **Cloudflare Turnstile + JS** 뒤에 있어 헤드리스 브라우저로 가격·유닛이 렌더링되지 않습니다(우회한 ~15곳 중 사실상 유일하게 막힌 케이스). 아래 스튜디오 상태는 **공식 사이트 floor plan 직접 확인 기준**, 1BR 가격은 **Zumper 추정**이라 전화 확인 필요합니다.
@@ -98,6 +106,8 @@ Alewife 역에서 가장 가까운 6개 단지(Cambridgepark Dr 30·50·80·130�
 ## Windsor at Cambridge Park
 **160 Cambridgepark Dr, Cambridge 02140** · Windsor Communities(Vox on Two와 동일 운영사) · 2014년 건축 · 6층 · 398세대
 
+🌐 [공식 사이트](https://www.windsorcommunities.com/properties/windsor-at-cambridge-park/) · 📍 [Google 지도](https://www.google.com/maps/search/Windsor+at+Cambridge+Park+160+Cambridgepark+Dr+Cambridge+MA)
+
 - **스튜디오:** **현재 가용 없음**(공식 RentCafe 라이브에 1BR·2BR만 노출).
 - **1BR (공식 라이브):** **$3,053부터** / 725–906 sf — 731–738sf #144 $3,053·#243 $3,127, 725–788sf #110 $3,094·#166 $3,134, 878sf #102 $3,277, 897–906sf #147 $3,344·#106 $3,379.
 - **2BR (참고):** 1,249 sf $4,384부터 (#495·#481).
@@ -113,6 +123,8 @@ Alewife 역에서 가장 가까운 6개 단지(Cambridgepark Dr 30·50·80·130�
 
 ## Fuse Cambridge
 **165 Cambridgepark Dr, Cambridge 02140** · Bozzuto · LEED Silver
+
+🌐 [공식 사이트](https://www.fusecambridge.com) · 📍 [Google 지도](https://www.google.com/maps/search/Fuse+Cambridge+165+Cambridgepark+Dr+Cambridge+MA)
 
 - **스튜디오 (공식 SightMap 라이브):** **$3,034–3,069** / 531–552 sf — #244 531sf $3,034 (8/4), #502 552sf $3,069 (7/22).
 - **1BR (공식 라이브):** **$3,583–3,868** / 704–749 sf — #439 707sf $3,583 (7/24), #325 749sf $3,778 (즉시), #449 $3,848·#511 $3,868.

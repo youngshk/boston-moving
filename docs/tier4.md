@@ -10,6 +10,8 @@ Alewife에서 다소 떨어졌거나 행정구역이 다른 단지들. The Royal
 ## The Royal Belmont
 **375 Acorn Park Dr, Belmont 02478 (East Belmont)** · Harbor Group · 2017년 건축 · 4층 · 298세대
 
+🌐 [공식 사이트](https://www.harborgroupmanagement.com/apartments/ma/belmont/the-royal-belmont/) · 📍 [Google 지도](https://www.google.com/maps/search/The+Royal+Belmont+375+Acorn+Park+Dr+Belmont+MA)
+
 - **스튜디오:** "Alford" 596 sf — **현재 공실 없음**(공식 Knock API에 스튜디오 가용 0).
 - **1BR (공식 Knock API 라이브, 13세대 가용):**
 
@@ -37,6 +39,8 @@ Alewife에서 다소 떨어졌거나 행정구역이 다른 단지들. The Royal
 
 ## Walden Park *(실제로는 Porter Square)*
 **205 Walden St, Cambridge 02140** · Equity Residential
+
+🌐 [공식 사이트](https://www.equityapartments.com/boston/porter-square/walden-park-apartments) · 📍 [Google 지도](https://www.google.com/maps/search/Walden+Park+205+Walden+St+Cambridge+MA)
 
 - **스튜디오 (공식 Equity 라이브, 3세대):** **$2,490부터** / 539 sf — #Floor2 $2,490 (8/7), Floor1 $2,567 (7/31), Floor5 $2,622 (7/7). 06-06 Zumper값($2,528~)보다 공식이 더 낮음.
 - **1BR (공식, 6세대):** **$2,860부터** / 625–760 sf — 625sf $2,860 (즉시), $2,925, 760sf $3,120 (9/10), $3,122, 625sf $3,132 (7/24).

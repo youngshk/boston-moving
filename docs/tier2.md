@@ -10,6 +10,8 @@ Alewife 북서쪽 **Concord Turnpike(Rt-2)** 변의 단지들. 세대수가 많�
 ## Vox on Two
 **223 Concord Tpke, Cambridge 02140** · Windsor Communities · 2013년 건축 · LEED Silver
 
+🌐 [공식 사이트](https://www.rentcafe.com/apartments/ma/cambridge/vox-on-two/default.aspx) · 📍 [Google 지도](https://www.google.com/maps/search/Vox+on+Two+223+Concord+Turnpike+Cambridge+MA)
+
 - **스튜디오:** **현재 공실 없음** (06-06 $2,799/620sf 매물 소진). 평면 S1A(620sf)·S1C(597sf) 존재하나 "Ask for pricing".
 - **1BR:** $3,048–3,194 / 840–964 sf (06-06 $3,115~ 대비 소폭↓, 매물 6개로 증가). 라이브(RentCafe): A2A #330 840sf $3,048 즉시, A2B #166 857sf $3,048 (6/20), A9B #148 964sf $3,194 (6/29) 등.
 - **사인업 보너스:** 없음 (무변동). **단지는 리브랜딩 아니라 정상 독립 운영 확인됨**(RentCafe 공식 피드 라이브).
@@ -29,6 +31,8 @@ Alewife 북서쪽 **Concord Turnpike(Rt-2)** 변의 단지들. 세대수가 많�
 
 ## Tempo Cambridge
 **203 Concord Tpke, Cambridge 02140** · Willow Bridge 운영 · 6층 · 320세대
+
+🌐 [공식 사이트](https://www.tempocambridge.com) · 📍 [Google 지도](https://www.google.com/maps/search/Tempo+Cambridge+203+Concord+Turnpike+Cambridge+MA)
 
 - **스튜디오:** ~$2,635–2,725 / 502–515 sf (06-06과 거의 동일, 상단만 소폭↑). 라이브: S3.5 #2609 502sf $2,635 (7/29), S3.1 #1625 515sf $2,725 (7/11).
 - **1BR:** ~$2,956–3,166 / 626–837 sf (~17세대 공실). **06-06 상단 $3,324 → $3,166으로↓**(고가 매물 소진/재가격). A7.1C #2305 723sf $2,976 즉시 등.
