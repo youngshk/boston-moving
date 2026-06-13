@@ -31,6 +31,8 @@ TARGETS = [
     ("urbane", "https://urbaneatalewife.com/floorplans/", ["https://urbaneatalewife.com/availability/"]),
     ("luxe", "https://www.luxealewife.com/floorplans", []),
     ("hanover", "https://www.hanoveralewife.com/cambridge/hanover-alewife/floor-plans", []),
+    ("windsor_cp", "https://www.rentcafe.com/apartments/ma/cambridge/windsor-at-cambridge-park/default.aspx", []),
+    ("fuse", "https://www.fusecambridge.com/floorplans", ["https://www.fusecambridge.com/"]),
     ("vox", "https://www.rentcafe.com/apartments/ma/cambridge/vox-on-two/default.aspx", []),
     ("tempo", "https://www.tempocambridge.com/floorplans", ["https://www.tempocambridge.com/availability"]),
     ("atmark", "https://liveatmark.com/floorplans/", []),

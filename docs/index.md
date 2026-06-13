@@ -14,7 +14,7 @@
 
 | 구분 | 단지 |
 |---|---|
-| **Alewife에 가장 가까움** | Cambridge Park (도보 2-3분, 길 건너), Urbane (2-4분), Luxe (3-6분), Hanover (4-6분) |
+| **Alewife에 가장 가까움** | Cambridge Park (도보 2-3분, 길 건너), Urbane (2-4분), Luxe (3-6분), Hanover·Windsor·Fuse (4-6분, 같은 거리) |
 | **가장 저렴한 스튜디오** | Chester St (~$2,200, 단 Davis Sq), **The Laurent (~$2,370, 06-13 인하)**, Walden Park (~$2,490, 공식✓), Atmark (~$2,575) |
 | **가장 저렴한 1BR** | The Laurent (~$2,767), Atmark (~$2,817, 공식✓), Walden Park (~$2,860, 공식✓), Royal Belmont (~$2,870, 공식✓) |
 | **가장 좋은 사인업 보너스(공식 확인)** | The Royal Belmont (1개월 무료, 6/21 마감 임박), The Laurent ($1,000 off), **Luxe (1개월 무료+$99)**, **Atmark (1개월 무료)** |
@@ -42,7 +42,7 @@
 
 이 조사는 Alewife 역까지의 도보 거리 기준으로 4개 티어로 나눴습니다.
 
-- **Tier 1 — Cambridgepark Dr 클러스터 (도보 2-6분):** Urbane, Luxe, Hanover, Cambridge Park. 역에서 가장 가깝고 가장 새 건물들. 가격대는 중상위.
+- **Tier 1 — Cambridgepark Dr 클러스터 (도보 2-6분):** Cambridge Park, Urbane, Luxe, Hanover, Windsor at Cambridge Park, Fuse. 역에서 가장 가깝고 가장 새 건물들. 가격대는 중상위.
 - **Tier 2 — Concord Tpke / Fawcett St (도보 8-12분):** Vox on Two, Tempo, Atmark, The Brook. 가성비/세대수 많은 단지들.
 - **Tier 3 — Cambridge Highlands / Fresh Pond (도보 10-15분):** The Laurent, 603 Concord, 605 Concord, Park87, Park77. 일부는 난방·온수 포함.
 - **Tier 4 — Belmont / Porter (참고용):** The Royal Belmont(East Belmont, Rt-2 건너), Walden Park·Chester St(실제로는 Porter/Davis Square — Alewife와는 거리가 있음).

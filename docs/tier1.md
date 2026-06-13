@@ -1,6 +1,6 @@
 # Tier 1 · Cambridgepark Dr 클러스터 (Alewife 도보 2-6분)
 
-Alewife 역에서 가장 가까운 4개 단지. 대부분 2017년 이후 지어진 신축/준신축이며 가격대는 중상위.
+Alewife 역에서 가장 가까운 6개 단지(Cambridgepark Dr 30·50·80·130·160·165번지). 대부분 2014년 이후 지어진 신축/준신축이며 가격대는 중상위.
 
 !!! note "2026-06-13 갱신 요약"
     한 주 새 **전반적 가격 상승**. Cambridge Park 외 3곳 모두 스튜디오 하단가가 올랐고 Luxe·Hanover는 저가 매물 소진. 단 **Urbane 1BR은 즉시입주 매물 등장으로 ↓**. **Luxe 프로모션이 "미확인→공식 확인"으로 격상.**
@@ -89,3 +89,34 @@ Alewife 역에서 가장 가까운 4개 단지. 대부분 2017년 이후 지어�
     - 👎 마감 사소한 하자(베이스보드·콘센트), 일부 메인터넌스 응답 지연. (단 노출된 리뷰 다수가 ~2020년이라 최근 디테일은 다소 얇음.)
     - 💬 "The team is so professional and accommodating; Kaitlin, Caitlin and Mikaila are helpful."
 - 출처: hanoveralewife.com(평면 페이지 스니펫), Apartments.com, Zillow, Zumper
+
+---
+
+## Windsor at Cambridge Park
+**160 Cambridgepark Dr, Cambridge 02140** · Windsor Communities(Vox on Two와 동일 운영사) · 2014년 건축 · 6층 · 398세대
+
+- **스튜디오:** **현재 가용 없음**(공식 RentCafe 라이브에 1BR·2BR만 노출).
+- **1BR (공식 라이브):** **$3,053부터** / 725–906 sf — 731–738sf #144 $3,053·#243 $3,127, 725–788sf #110 $3,094·#166 $3,134, 878sf #102 $3,277, 897–906sf #147 $3,344·#106 $3,379.
+- **2BR (참고):** 1,249 sf $4,384부터 (#495·#481).
+- **사인업 보너스:** 없음 (공식 라이브 기준).
+- **주차:** 온사이트, 금액 n/p
+- **In-unit 세탁/건조:** 예
+- **유틸:** 미포함
+- **거리/교통:** Cambridgepark Dr, Alewife 도보 ~5–6분 (Hanover 130번지 옆 160번지)
+- **거주자 평가:** Google **~4.4/5** (검색 기준 — 이번 회차 라이브 추출 아님). ApartmentRatings 4.2/5·69건. 리조트형 시즌 풀·파이어핏·BBQ·바이크 스토리지. 2014년 건물이라 Tier 1 신축들보다는 다소 연식 있음.
+- 출처: rentcafe.com/windsor-at-cambridge-park(06-13 Playwright 공식 라이브), windsorcommunities.com
+
+---
+
+## Fuse Cambridge
+**165 Cambridgepark Dr, Cambridge 02140** · Bozzuto · LEED Silver
+
+- **스튜디오 (공식 SightMap 라이브):** **$3,034–3,069** / 531–552 sf — #244 531sf $3,034 (8/4), #502 552sf $3,069 (7/22).
+- **1BR (공식 라이브):** **$3,583–3,868** / 704–749 sf — #439 707sf $3,583 (7/24), #325 749sf $3,778 (즉시), #449 $3,848·#511 $3,868.
+- **2BR (참고):** 1,044–1,114 sf, 대체로 $4,461–4,925 (일부 라이브값에 데이터 글리치 $1,658 표기 — 무시).
+- **사인업 보너스:** 없음 (SightMap special 미표기).
+- **In-unit 세탁/건조:** 예
+- **유틸:** 미포함(서브미터 추정)
+- **거리/교통:** Cambridgepark Dr 165번지, Alewife 도보 ~4–6분
+- **거주자 평가:** 리뷰 다수(ApartmentRatings 52건·Birdeye 293건 등)이나 **이번 회차 Google 라이브 평점 미추출**(다음 패스에서 보강 권장). 같은 Bozzuto 운영(Cambridge Park·Laurent과 동일).
+- 출처: fusecambridge.com SightMap API(06-13 Playwright 공식 라이브), Bozzuto, DiMella Shaffer

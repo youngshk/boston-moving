@@ -15,6 +15,8 @@
 | Urbane at Alewife | 1 | 2-4분 | ~$2,969–3,099 | 517–556 sf | ~$3,007+ | 634–754 sf | 1BR 즉시입주 $3,007 신규 |
 | Luxe at Alewife | 1 | 3-6분 | **$3,003+** (공식✓) | 576–636 sf | **$3,010/$3,325+** (공식✓) | 732–896 sf | 1개월 무료+$99 공식✓ |
 | Hanover Alewife | 1 | 4-6분 | ~$2,780+ | ~574 sf | ~$3,092+ | 711–805 sf | 공식 위젯 가격 미노출, Zumper 기준 |
+| Windsor at Cambridge Park | 1 | ~5-6분 | 가용 없음 (공식✓) | (n/p) | **$3,053+** (공식✓) | 725–906 sf | 2014년, 398세대 |
+| Fuse Cambridge | 1 | ~4-6분 | **$3,034+** (공식✓) | 531–552 sf | **$3,583+** (공식✓) | 704–749 sf | Bozzuto, LEED Silver |
 | Vox on Two | 2 | ~8분 | 가용 없음 (공식✓) | (620 sf) | **$3,048+** (공식✓) | 840–857 sf | 12세대 가용, 전부 1BR↑ |
 | Tempo Cambridge | 2 | ~8–10분 | ~$2,635–2,725 | 502–515 sf | ~$2,956–3,166 | 626–837 sf | 공식 미렌더, ApartmentList 기준 |
 | Atmark Cambridge | 2 | ~10–12분 | ~$2,575–2,717 | 569–588 sf | **$2,817+** (공식✓, 즉시) | 725–740 sf | 1개월 무료 공식✓ |
@@ -36,6 +38,8 @@
 | Urbane at Alewife | 공식 "없음" / aggregator "2주 무료" *(상충·미확인)* | 차고 있음, n/p | 예 | 없음(서브미터) | 1BR 즉시(A06 #425), 스튜디오 6/20~ |
 | Luxe at Alewife | **1개월 무료 + 보증금 $99** *(공식 RentCafe 확인)* | 있음, n/p | 예 | 없음 | 스튜디오 6/16~, 1BR 즉시(A19) |
 | Hanover Alewife | 스튜디오 "최대 4주+1주 무료" / 1BR "$500"(공식) · Zumper "2주"(상충) | 차고(+필수 fee 일부 포함), n/p | 예 | 없음 | 문의 |
+| Windsor at Cambridge Park | 없음 (공식✓) | 온사이트, n/p | 예 | 없음 | 1BR 즉시~ |
+| Fuse Cambridge | 없음 (공식✓) | n/p | 예 | 없음 | 스튜디오 7/22~, 1BR 즉시 |
 | Vox on Two | 없음 | 있음, n/p | 예 (full-size) | 없음 | 1BR 즉시(#330) |
 | Tempo Cambridge | 없음 (3BR만 $1,000 off) | 차고/커버드, n/p | 예 (포함) | 없음 | 1BR 즉시(A7.1C #2305) |
 | Atmark Cambridge | **1개월 무료** *(공식 RentCafe 확인, 혼선 해소)* | 차고+EV, n/p | 예 (front-load) | 없음 | 스튜디오 6/20~, 1BR 즉시 |
@@ -67,6 +71,8 @@
 | Urbane at Alewife | 4.5 (162) | [리뷰 보기](https://www.google.com/maps/search/Urbane+at+Alewife+50+Cambridgepark+Dr+Cambridge+MA) | 모던·스태프 호평 / 층간소음·엘베고장·택배도난 |
 | Cambridge Park | 4.5 (274) | [리뷰 보기](https://www.google.com/maps/search/Cambridge+Park+Apartments+30+Cambridge+Park+Dr+Cambridge+MA) | 관리·위치 호평 / 건물 노후(2001) |
 | Walden Park | 4.4 (118) | [리뷰 보기](https://www.google.com/maps/search/Walden+Park+Apartments+205+Walden+St+Cambridge+MA) | 스태프·커뮤니티 호평 / (과거)해충·소음 |
+| Windsor at Cambridge Park | ~4.4 (검색) † | [리뷰 보기](https://www.google.com/maps/search/Windsor+at+Cambridge+Park+160+Cambridgepark+Dr+Cambridge+MA) | 2014년 건물. 풀·어메니티 호평 (ApartmentRatings 4.2·69건) |
+| Fuse Cambridge | 미추출 † | [리뷰 보기](https://www.google.com/maps/search/Fuse+Cambridge+165+Cambridgepark+Dr+Cambridge+MA) | Bozzuto·LEED. 리뷰 다수(ApartmentRatings 52건) |
 | The Royal Belmont | 4.0 (130) | [리뷰 보기](https://www.google.com/maps/search/The+Royal+Belmont+375+Acorn+Park+Dr+Belmont+MA) | 빠른 수리 / 방음 최악 평. (ApartmentRatings는 2.9) |
 | Park77 | 3.9 (16) | [리뷰 보기](https://www.google.com/maps/search/Park77+Apartments+77+New+St+Cambridge+MA) | 청결·스태프 호평 / 배송·층간소음 |
 | Atmark Cambridge | 3.8 (221) | [리뷰 보기](https://www.google.com/maps/search/Atmark+Cambridge+80+Fawcett+St+Cambridge+MA) | 위치 좋음 / 택배도난·관리전환 불만 |
@@ -78,7 +84,7 @@
 | The Brook | 1.0 (1) ⚠️ | [리뷰 보기](https://www.google.com/maps/search/The+Brook+Luxury+Apartments+95+Fawcett+St+Cambridge+MA) | 리뷰 1건뿐 — **평점 무의미** (별도 텍스트 리뷰는 부정적) |
 | Chester Street | Google 등록 없음 | — | 검색 시 매칭되는 Google 플레이스 없음 (미평가) |
 
-⚠️ = 리뷰 수가 한 자릿수~극소라 평점 신뢰 불가.
+⚠️ = 리뷰 수가 한 자릿수~극소라 평점 신뢰 불가. † = 06-13 신규 추가 단지로, 평점은 검색 기준이며 **라이브 Google 추출은 다음 패스에서 보강** 예정.
 
 !!! warning "리뷰 데이터 주의"
     - **리뷰 수가 적은 곳(The Brook 1건, 605 Concord 2건, 603·Park87 6건)은 평점이 사실상 의미 없습니다.** 텍스트 리뷰 내용(상세 페이지)을 보세요.
