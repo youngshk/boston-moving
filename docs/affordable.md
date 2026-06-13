@@ -52,13 +52,26 @@
 !!! danger "Royal Belmont은 제도가 다릅니다"
     **The Royal Belmont은 케임브리지가 아니라 Belmont 타운**이며, 매사추세츠 **Chapter 40B**로 만들어졌습니다. 케임브리지 상시 풀이 아니라 **SEB Housing의 추첨(Lottery)** 방식입니다. 진행 중 추첨·소득 상한은 [sebhousing.com](https://sebhousing.com/information-on-ma-affordable-housing-and-40b/)에서 직접 확인하세요.
 
-## 3. 기타 어포더블 자원
+## 3. 전액 어포더블 신축 (Alewife 인근)
+
+시장가 단지의 인클루저너리(20%)와 별개로, **건물 전체가 소득제한인 신축**도 New St·Rindge Ave 일대에 있습니다.
+
+| 단지 | 위치 | 규모 | 소득 | 상태 (2026-06) |
+|---|---|---|---|---|
+| **52 New Street** | 52 New St (Danehy Park·Fresh Pond 인접, Park77/87 옆) | **106세대** (1BR 22·2BR 62·3BR 22, **스튜디오 없음**), Passive House | **60–80% AMI** | Just A Start 개발, **2026년 3월 오픈**. 초기 추첨은 마감(2025-08-29 접수→09-16 추첨, 2,000+ 신청). **향후 공실은 대기자 명단으로** → JAS 문의 |
+| **Rindge Commons** | 405 + 430–432 Rindge Ave (Alewife Brook Pkwy 인근) | 2단계 **101세대** (405 Rindge 1단계 24세대 2024 완공) | 어포더블 | Just A Start. 단지별 공실·소득한도 직접 문의 |
+
+→ Just A Start 617-494-0444 / [justastart.org/52-new-street](https://www.justastart.org/52-new-street/) · [justastart.org/housing](https://www.justastart.org/housing/affordable-housing/)
+
+!!! note "미래 파이프라인 (아직 임대 불가)"
+    **Healthpeak**가 Fawcett St·Smith Place 일대 45.7에이커에 **~2,600세대** 규모(주거+상업) 대규모 재개발을 제안(2025년 환경영향평가 제출). 케임브리지 20% 룰상 상당한 어포더블 물량이 포함될 전망이나, **착공 전 단계라 당장 입주 대상은 아님.** 중장기 모니터링용.
+
+## 4. 기타 어포더블 자원
 
 - **Cambridge Housing Authority (CHA)** — 공공주택 + Section 8. 포털 [cha.myhousing.com](https://cha.myhousing.com/) / 617-864-3020. 2026년 현재 4개 주요 대기명단 **모두 OPEN**: Family(80% AMI), Senior/Disabled(80%), SRO(50%), Housing Choice Voucher/Section 8(50%).
-- **Just A Start** (비영리) — Alewife 인근 Rindge Tower / Rindge Commons North(430 Rindge Ave) 등 ~600세대. 617-494-0444 / [justastart.org](https://www.justastart.org/housing/affordable-housing/).
 - **Housing Navigator MA** — 주 전체 어포더블 검색 [search.housingnavigatorma.org](https://search.housingnavigatorma.org). 위 단지들이 여기 등재됨.
 
-## 4. 실전 가이드 (전문직 기준)
+## 5. 실전 가이드 (전문직 기준)
 
 직장 다니는 전문직은 보통 **공공주택(깊은 보조금)에는 소득이 너무 높지만, 인클루저너리/중위소득에는 자격이 될 수 있는** 위치입니다.
 

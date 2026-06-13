@@ -47,6 +47,13 @@
 - **Tier 3 — Cambridge Highlands / Fresh Pond (도보 10-15분):** The Laurent, 603 Concord, 605 Concord, Park87, Park77. 일부는 난방·온수 포함.
 - **Tier 4 — Belmont / Porter (참고용):** The Royal Belmont(East Belmont, Rt-2 건너), Walden Park·Chester St(실제로는 Porter/Davis Square — Alewife와는 거리가 있음).
 
+!!! info "조사 범위 — 누락 점검 결과 (Google 등 교차 확인)"
+    시장가 임대 단지는 위 **18곳으로 사실상 완전**합니다. 추가 점검에서 확인된 것:
+
+    - **시장가 추가 없음.** **200 Cambridgepark Dr**는 주거가 아니라 **GSK 오피스·랩 빌딩**, **140 Cambridgepark Dr**는 브랜드 단지가 아닌 **개별 유닛/룸 매물**이라 제외.
+    - **전액 어포더블 신축**: **52 New Street**(106세대, 2026-03 오픈), **Rindge Commons**(JAS) → [어포더블](affordable.md)에 정리.
+    - **미래 파이프라인**: Healthpeak의 Fawcett St·Smith Place ~2,600세대 재개발은 착공 전이라 아직 임대 불가.
+
 ## 결론 (의사결정 가이드)
 
 - **역과의 거리 최우선 + 유틸 포함** → **Cambridge Park** (길 건너, 난방·쓰레기 포함, 주차 $100-150). 단, 소형 유닛도 비싼 편이고 현재 프로모션 없음.
