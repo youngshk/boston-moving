@@ -73,8 +73,11 @@ Alewife 역에서 가장 가까운 6개 단지(Cambridgepark Dr 30·50·80·130�
 ## Hanover Alewife
 **130 Cambridgepark Dr, Cambridge 02140** · 2017년 건축 · 6층 · 213세대
 
-- **스튜디오:** ~$2,780부터 / ~574 sf — **여전히 이 그룹 최저권이나 06-06 ~$2,248 대비 상당히↑**(저가 매물 소진). Plan A 574sf 1세대 가용. (출처 간 ±$200 편차: 일부 스니펫 $2,563 시작도 언급.)
-- **1BR:** ~$3,092부터 / 711–805 sf — **06-06 $2,809 대비↑**($2,809대 소진). Plan C 711sf 4세대, Plan E 804sf 3세대 가용.
+!!! warning "공식 사이트 데이터 한계 (Cloudflare Turnstile)"
+    Hanover 공식 가용 위젯은 **Cloudflare Turnstile + JS** 뒤에 있어 헤드리스 브라우저로 가격·유닛이 렌더링되지 않습니다(우회한 ~15곳 중 사실상 유일하게 막힌 케이스). 아래 스튜디오 상태는 **공식 사이트 floor plan 직접 확인 기준**, 1BR 가격은 **Zumper 추정**이라 전화 확인 필요합니다.
+
+- **스튜디오:** **현재 가용 없음** — 공식 사이트 floor plan에 studio "no available unit"(웨이트리스트/notify). ⚠️ 기존 표기 "~$2,780"은 Zumper의 *floor plan 시작가*였고, 실제로 **지금 입주 가능한 스튜디오는 없습니다**(가용 없을 때도 시작가는 표시되므로 혼동 주의).
+- **1BR:** ~$3,092부터 / 711–805 sf *(Zumper 추정 — 공식 위젯 미렌더, 전화 확인 권장)*. Plan C 711sf·Plan E 804sf대.
 - **사인업 보너스(주간 로테이션, "apply by Sunday"):** ⚠️ 출처 간 상충 —
     - 공식: 스튜디오 "up to 4 weeks FREE + 일요일까지 신청 시 1주 추가" / 1BR "$500"
     - Zumper: "2 WEEKS FREE (일요일까지)"
