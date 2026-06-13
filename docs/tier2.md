@@ -1,6 +1,9 @@
-# Tier 2 · Concord Tpke / Fawcett St (Alewife 도보 8-12분)
+# Tier 2 · Concord Turnpike (Alewife 도보 ~14분)
 
-세대수가 많고 가성비가 좋은 단지들. Concord Turnpike(Rt-2)와 Fawcett St 일대.
+Alewife 북서쪽 **Concord Turnpike(Rt-2)** 변의 단지들. 세대수가 많고 가성비가 좋습니다.
+
+!!! note "2026-06-13 Tier 정리"
+    이전 Tier 2에 있던 **Atmark·The Brook(둘 다 Fawcett St)은 Tier 3으로 이동**했습니다. 지리적으로 Fawcett St는 Wheeler St·Concord Ave(Fresh Pond 클러스터)와 붙어 있어, 같은 Tier 3으로 묶는 것이 맞기 때문입니다(예: Atmark↔The Laurent 직선 69m). 현재 Tier 2는 Concord Turnpike의 Vox·Tempo만 남습니다.
 
 ---
 
@@ -40,53 +43,4 @@
     - 💬 "Buildings were poorly designed and shoddily built." (부정 인용) — **표본 작음, 해석 주의.**
 - **참고:** 공식 사이트는 가격 비공개 → 가격은 ApartmentList 등 라이브 기준(다소 지연 가능)
 
----
-
-## Atmark Cambridge
-**80 Fawcett St, Cambridge 02138** · Greystar (공식 liveatmark.com) · 2014년 건축 · 5층 · 428세대
-
-- **스튜디오:** ~$2,575–2,717 / 569–588 sf (06-06 대비 소폭↓, 663sf 매물 소진·588sf S5 신규). 라이브(RentCafe): S5 #2-426 588sf $2,575 (6/20), S2 #373 569sf $2,622 (8/8).
-- **1BR (공식 라이브 확인):** **$2,817부터** / 725–740 sf — 740sf $2,817 (즉시입주), 725sf $2,933 (7/21), $2,974/$3,049/$3,054/$3,134 등(13개월 계약 기준). RentCafe 표기($2,990~)보다 공식 사이트가 더 낮음.
-- **사인업 보너스(공식 확인):** **"1 MONTH FREE BASE RENT!"** — 공식 사이트 배너에서 직접 확인(06-06의 "1개월 vs 0.5개월" 혼선 해소).
-- **주차:** 차고 + EV 충전, 금액 n/p
-- **In-unit 세탁/건조:** 예 (front-loading)
-- **유틸:** 미포함
-- **펫:** 고양이 $45/월, 개 $75/월
-- **거리/교통:** Alewife 역 **실측 도보 ~19분(1,399m)** — 마케팅 문구("down the street")보다 멀고, 사실 Tier 3의 Laurent·603/605보다 멀다. **Tier 3의 The Laurent(55 Wheeler St)와는 직선 69m·도보 3분의 바로 옆 블록**이라, Tier가 갈린 건 거리 이름 기준 분류 탓이지 실제 위치 차이는 거의 없다. ([실측 거리표](comparison.md) 참고.)
-- **층수:** 5층 / 공실 유닛 번호 prefix가 층 (예 2-222, 2-416, 203 = 2층). 단 3-4월 표기 유닛은 만료됐을 가능성.
-- **거주자 평가:** Google **3.8/5 (221 리뷰, 라이브)**. (ApartmentRatings도 3.8/5·~65건으로 일치)
-    - 👍 위치 우수, 모던·어메니티(풀·피트니스), 대체로 빠른 메인터넌스, 친절한 프론트·리싱.
-    - 👎 **택배 도난 반복**(미해결 평), Bozzuto→Greystar 관리 전환기 소통·리더십 불만, 일부 장기 거주자 관리 하락 지적, 소음 평 갈림.
-    - 💬 택배 도난이 "rampant... never properly addressed by management."
-- 출처: liveatmark.com(공식 amenity), aggregator(가격·특가)
-
----
-
-## The Brook Luxury Apartments
-**95 Fawcett St, Cambridge 02138** · 2021년 건축 · 5층 · 42세대
-
-- **스튜디오:** 없음 (1BR/2BR/3BR만)
-- **1BR:** $2,925–3,300 / 671–983 sf (평면 9종). 현재 공실(공식 availability):
-
-    | 유닛 | 층 | 월세 | 크기 | 입주 |
-    |---|---|---|---|---|
-    | #202 | 2 | $2,925 | 733 sf | 10/1 |
-    | #207 | 2 | $2,950 | 776 sf | 9/1 |
-    | #506 | 5 | $2,975 | 783 sf | 9/1 |
-    | #402 | 4 | $3,000 | 733 sf | 9/1 |
-    | #309 | 3 | $3,100 | 671 sf | 9/1 |
-    | #412 | 4 | $3,200 | 979 sf | 9/1 |
-    | #503 | 5 | $3,300 | 811 sf | 10/10 |
-
-    > **06-13 추적:** 06-06의 6개 유닛 전부 가격·입주일·크기 **그대로 잔존**(임대된 것 없음). 유일한 변동 = **#506 $2,975 신규 1개 추가.**
-
-- **사인업 보너스:** 공식 사이트엔 명시 없음. aggregator: "No Broker Fee / 일부 1개월 무료" — **공식 미확인, 전화 확인 필요.**
-- **주차:** $250/월 차고 (aggregator 정보, 공식 재확인 못 함)
-- **In-unit 세탁/건조:** 예 (full-size, 전 세대)
-- **거리/교통:** Fawcett St, Alewife **실측 도보 ~20분(1,495m)** — 이 조사에서 The Brook가 Tier 1·3 대부분보다 멀다.
-- **무브인:** 가장 빠른 1BR = 9/1/2026 (즉시 입주 가능한 유닛 없음). 공실은 2~5층 분포.
-- **거주자 평가:** Google **1.0/5 (리뷰 1건뿐 — 평점 무의미, 라이브)**. 리뷰 자체가 빈약하고 최근(2025) 텍스트 리뷰는 강한 부정 편향.
-    - 👍 외관·마감(9.5ft 천장·대형 창·GE Café 가전·쿼츠), North Cambridge 위치. (칭찬은 대부분 외관/마감.)
-    - 👎 **관리 불응**("TERRIBLE"), 주차/차량 엘리베이터 잦은 고장, **차고 침수**, $250 주차가 광고와 다르게 부실.
-    - 💬 "Do not rent... Management is TERRIBLE." (2025.6) · "garage is flooded and the car elevator is broken more than it works." (2025)
-- 출처: thebrookcambridge.com(공식 availability), Zumper(~16시간 전 업데이트)
+> **Atmark·The Brook은 [Tier 3](tier3.md)으로 이동**했습니다(둘 다 Fawcett St — Fresh Pond/Wheeler 클러스터에 인접).

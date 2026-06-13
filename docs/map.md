@@ -7,10 +7,10 @@ Alewife 역 인근 18개 단지를 지도에 표시했습니다. **마커 색은
 <div style="font-size: 0.85rem; line-height: 1.8;">
 <strong>범례</strong> &nbsp;
 <span style="color:#d32f2f;">●</span> Alewife 역 &nbsp;
-<span style="color:#1565c0;">●</span> Tier 1 (도보 2–6분) &nbsp;
-<span style="color:#2e7d32;">●</span> Tier 2 (도보 8–12분) &nbsp;
-<span style="color:#ef6c00;">●</span> Tier 3 (도보 10–15분) &nbsp;
-<span style="color:#6a1b9a;">●</span> Tier 4 (Belmont/Porter, 참고)
+<span style="color:#1565c0;">●</span> Tier 1 · Cambridgepark Dr (도보 ~5–10분) &nbsp;
+<span style="color:#2e7d32;">●</span> Tier 2 · Concord Tpke (도보 ~14분) &nbsp;
+<span style="color:#ef6c00;">●</span> Tier 3 · Fresh Pond/Fawcett (도보 ~14–20분) &nbsp;
+<span style="color:#6a1b9a;">●</span> Tier 4 · Belmont/Porter (~19–24분, 참고)
 </div>
 
 !!! tip "지도 사용법"
@@ -65,8 +65,8 @@ Alewife는 Red Line 종점이라 **대형 환승 주차 차고**가 있습니다
       {n:'Fuse Cambridge', lat:42.39544, lng:-71.14757, t:1, d:'스튜디오 $3,034~ · 1BR $3,583~(공식) · Bozzuto·LEED'},
       {n:'Vox on Two', lat:42.40001, lng:-71.15112, t:2, d:'스튜디오 공실없음 · 1BR ~$3,048 · 프로모 없음 · 평점 4.7'},
       {n:'Tempo Cambridge', lat:42.40012, lng:-71.15043, t:2, d:'스튜디오 ~$2,635 · 1BR ~$2,956 · 프로모 없음'},
-      {n:'Atmark Cambridge', lat:42.39123, lng:-71.14562, t:2, d:'스튜디오 ~$2,575 · 1BR $2,817~(공식) · 1개월 무료(공식)'},
-      {n:'The Brook', lat:42.39313, lng:-71.14692, t:2, d:'스튜디오 없음 · 1BR ~$2,925 · 입주 9/1~ · 프로모 미확인'},
+      {n:'Atmark Cambridge', lat:42.39123, lng:-71.14562, t:3, d:'스튜디오 ~$2,575 · 1BR $2,817~(공식) · 1개월 무료(공식) · Laurent 바로 옆'},
+      {n:'The Brook', lat:42.39313, lng:-71.14692, t:3, d:'스튜디오 없음 · 1BR ~$2,925 · 입주 9/1~ · 프로모 미확인'},
       {n:'The Laurent', lat:42.39129, lng:-71.14478, t:3, d:'스튜디오 ~$2,370 · 1BR ~$2,767 · $1,000 off(공식) · 어포더블 100세대 · 평점 4.6'},
       {n:'603 Concord', lat:42.38912, lng:-71.14443, t:3, d:'스튜디오 $3,000 · 1BR $3,100 · 한정 특가(문의) · 난방·온수 포함'},
       {n:'605 Concord', lat:42.38926, lng:-71.14489, t:3, d:'스튜디오 $2,850 · 1BR 문의 · 신축(2025) · 난방·온수 포함 · 무료 셔틀'},

@@ -1,6 +1,9 @@
-# Tier 3 · Cambridge Highlands / Fresh Pond (Alewife 도보 10-15분)
+# Tier 3 · Cambridge Highlands / Fresh Pond / Fawcett-Wheeler (Alewife 도보 ~14-20분)
 
-Fresh Pond 저수지 인근 Cambridge Highlands(02138) 클러스터. 603/605 Concord, Park77/87은 같은 RentCafe/Abodez 계열 템플릿. 일부는 난방·온수 포함이라 실질 비용이 낮음.
+Fresh Pond 저수지 인근 Cambridge Highlands(02138) 클러스터 + 바로 붙은 Fawcett St·Wheeler St 일대. 603/605 Concord, Park77/87은 같은 RentCafe/Abodez 계열 템플릿. 일부는 난방·온수 포함이라 실질 비용이 낮음.
+
+!!! note "2026-06-13 Tier 정리"
+    **Atmark(80 Fawcett St)·The Brook(95 Fawcett St)을 Tier 2에서 이곳으로 이동**했습니다. Fawcett St는 The Laurent(55 Wheeler St)·603/605 Concord와 같은 블록권(예: Atmark↔Laurent 직선 69m)이라, 지리적으로 이 클러스터에 속합니다.
 
 ---
 
@@ -15,7 +18,7 @@ Fresh Pond 저수지 인근 Cambridge Highlands(02138) 클러스터. 603/605 Con
 - **주차:** 예약 주차 $250/월 (지하)
 - **In-unit 세탁/건조:** 예 (full-size, 전 세대)
 - **유틸:** n/p
-- **거리/교통:** Alewife **실측 도보 ~16분(1,188m)** — Tier 3이지만 Tier 2의 Atmark(~19분)·The Brook(~20분)보다 가깝다.
+- **거리/교통:** Alewife **실측 도보 ~16분(1,188m)** — 같은 Tier 3의 Atmark(~19분)·The Brook(~20분)보다 가깝고, 603/605/Park77·87(~14분)보다는 조금 멀다. (Atmark는 55 Wheeler St의 Laurent과 직선 69m 옆 블록.)
 - **무브인:** 공실 다수, 사실상 즉시~ 가능 (유닛별 정확 날짜는 전화 확인)
 - **거주자 평가:** Google **4.6/5 (135 리뷰, 라이브)** — Tier 3에서 평점·리뷰량 모두 가장 좋음. (ApartmentRatings 4.8/5·13건)
     - 👍 매우 반응 좋은·전문적 메인터넌스(Wynter 반복 호평), 모던·채광·넓은 유닛, 어메니티(솔트워터 풀·루프덱), 보안·낮은 소음(설문 기준).
@@ -94,3 +97,54 @@ Fresh Pond 저수지 인근 Cambridge Highlands(02138) 클러스터. 603/605 Con
     - 👎 이른 새벽(7시 소음 조례 전) 배송트럭 소음, 일부 윗집 소음·수직 방음 약함, 소수의 빌드 품질 불만.
     - 💬 "very modern. Extremely clean. Staff are fantastic." (2024.8) · "Delivery services occur before the 7am ordinance allows." (2025.5)
 - 출처: park77aptscambridge.com(공식), RentCafe, Rent.com
+
+---
+
+## Atmark Cambridge
+**80 Fawcett St, Cambridge 02138** · Greystar (공식 liveatmark.com) · 2014년 건축 · 5층 · 428세대 · *(2026-06-13 Tier 2→3 이동)*
+
+- **스튜디오:** ~$2,575–2,717 / 569–588 sf (06-06 대비 소폭↓, 663sf 매물 소진·588sf S5 신규). 라이브(RentCafe): S5 #2-426 588sf $2,575 (6/20), S2 #373 569sf $2,622 (8/8).
+- **1BR (공식 라이브 확인):** **$2,817부터** / 725–740 sf — 740sf $2,817 (즉시입주), 725sf $2,933 (7/21), $2,974/$3,049/$3,054/$3,134 등(13개월 계약 기준). RentCafe 표기($2,990~)보다 공식 사이트가 더 낮음.
+- **사인업 보너스(공식 확인):** **"1 MONTH FREE BASE RENT!"** — 공식 사이트 배너에서 직접 확인(06-06의 "1개월 vs 0.5개월" 혼선 해소).
+- **주차:** 차고 + EV 충전, 금액 n/p
+- **In-unit 세탁/건조:** 예 (front-loading)
+- **유틸:** 미포함
+- **펫:** 고양이 $45/월, 개 $75/월
+- **거리/교통:** Alewife 역 **실측 도보 ~19분(1,399m)**. **The Laurent(55 Wheeler St)와 직선 69m·도보 3분의 바로 옆 블록** — 그래서 이번에 같은 Tier 3으로 정리. ([실측 거리표](comparison.md) 참고.)
+- **층수:** 5층 / 공실 유닛 번호 prefix가 층 (예 2-222, 2-416, 203 = 2층). 단 3-4월 표기 유닛은 만료됐을 가능성.
+- **거주자 평가:** Google **3.8/5 (221 리뷰, 라이브)**. (ApartmentRatings도 3.8/5·~65건으로 일치)
+    - 👍 위치 우수, 모던·어메니티(풀·피트니스), 대체로 빠른 메인터넌스, 친절한 프론트·리싱.
+    - 👎 **택배 도난 반복**(미해결 평), Bozzuto→Greystar 관리 전환기 소통·리더십 불만, 일부 장기 거주자 관리 하락 지적, 소음 평 갈림.
+    - 💬 택배 도난이 "rampant... never properly addressed by management."
+- 출처: liveatmark.com(공식 amenity), aggregator(가격·특가)
+
+---
+
+## The Brook Luxury Apartments
+**95 Fawcett St, Cambridge 02138** · 2021년 건축 · 5층 · 42세대 · *(2026-06-13 Tier 2→3 이동)*
+
+- **스튜디오:** 없음 (1BR/2BR/3BR만)
+- **1BR:** $2,925–3,300 / 671–983 sf (평면 9종). 현재 공실(공식 availability):
+
+    | 유닛 | 층 | 월세 | 크기 | 입주 |
+    |---|---|---|---|---|
+    | #202 | 2 | $2,925 | 733 sf | 10/1 |
+    | #207 | 2 | $2,950 | 776 sf | 9/1 |
+    | #506 | 5 | $2,975 | 783 sf | 9/1 |
+    | #402 | 4 | $3,000 | 733 sf | 9/1 |
+    | #309 | 3 | $3,100 | 671 sf | 9/1 |
+    | #412 | 4 | $3,200 | 979 sf | 9/1 |
+    | #503 | 5 | $3,300 | 811 sf | 10/10 |
+
+    > **06-13 추적:** 06-06의 6개 유닛 전부 가격·입주일·크기 **그대로 잔존**(임대된 것 없음). 유일한 변동 = **#506 $2,975 신규 1개 추가.**
+
+- **사인업 보너스:** 공식 사이트엔 명시 없음. aggregator: "No Broker Fee / 일부 1개월 무료" — **공식 미확인, 전화 확인 필요.**
+- **주차:** $250/월 차고 (aggregator 정보, 공식 재확인 못 함)
+- **In-unit 세탁/건조:** 예 (full-size, 전 세대)
+- **거리/교통:** Fawcett St, Alewife **실측 도보 ~20분(1,495m)** — 이 조사에서 가장 먼 축(Tier 1·대부분 Tier 3보다 멀다).
+- **무브인:** 가장 빠른 1BR = 9/1/2026 (즉시 입주 가능한 유닛 없음). 공실은 2~5층 분포.
+- **거주자 평가:** Google **1.0/5 (리뷰 1건뿐 — 평점 무의미, 라이브)**. 리뷰 자체가 빈약하고 최근(2025) 텍스트 리뷰는 강한 부정 편향.
+    - 👍 외관·마감(9.5ft 천장·대형 창·GE Café 가전·쿼츠), North Cambridge 위치. (칭찬은 대부분 외관/마감.)
+    - 👎 **관리 불응**("TERRIBLE"), 주차/차량 엘리베이터 잦은 고장, **차고 침수**, $250 주차가 광고와 다르게 부실.
+    - 💬 "Do not rent... Management is TERRIBLE." (2025.6) · "garage is flooded and the car elevator is broken more than it works." (2025)
+- 출처: thebrookcambridge.com(공식 availability), Zumper(~16시간 전 업데이트)

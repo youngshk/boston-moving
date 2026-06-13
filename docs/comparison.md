@@ -9,13 +9,13 @@
 
 ## 실측 도보 거리 (Alewife 역까지)
 
-!!! warning "Tier ≠ 거리 순서 — 동네 클러스터로 묶은 것 (경계가 모호함)"
-    Tier는 **거리 띠가 아니라 동네 묶음**입니다(Tier 2 = Concord Tpke·**Fawcett St**, Tier 3 = Cambridge Highlands·**Fresh Pond**). 이 묶음은 원래 "거리 이름" 기준이라 경계에서 어긋납니다:
+!!! warning "Tier는 거리 띠가 아니라 동네 묶음 — 거리 순서와 다를 수 있음"
+    Tier는 **거리 띠가 아니라 동네 묶음**입니다(Tier 1 = Cambridgepark Dr, Tier 2 = Concord Turnpike, Tier 3 = Cambridge Highlands·Fresh Pond·Fawcett-Wheeler, Tier 4 = Belmont/Porter).
 
-    - **Atmark(Tier 2, 80 Fawcett St)와 The Laurent(Tier 3, 55 Wheeler St)는 사실상 같은 블록 — 직선 69m, 도보 3분 거리의 바로 옆 단지**입니다. 그런데 Tier가 갈린 건, Fawcett St는 원래 The Brook과 함께 "Concord Tpke/Fawcett 묶음(T2)"으로, Wheeler St·Concord Ave는 "Fresh Pond 묶음(T3)"으로 분류했기 때문입니다. **거리·환경상으론 둘을 같은 그룹으로 보는 게 맞습니다.**
-    - 실제 거리도 역전됩니다 — **Atmark(T2) ~19분이 The Laurent(T3) ~16분·603/605/Park77·87(~14분)보다 멉니다.** The Brook(T2)도 ~20분.
+    - **2026-06-13 정리:** Atmark(80 Fawcett St)·The Brook(95 Fawcett St)을 **Tier 2 → Tier 3으로 이동**했습니다. Atmark는 The Laurent(55 Wheeler St)와 **직선 69m·도보 3분의 바로 옆 블록**이라 같은 그룹이 맞습니다.
+    - 그래도 같은 Tier 안에서 거리는 제각각입니다 — Tier 3 내에서도 603/605/Park77·87(~14분) < The Laurent(~16분) < **Atmark(~19분) < The Brook(~20분)**.
     
-    → **거리만 본다면 아래 표(실측 순)를, 동네 환경은 Atmark·The Brook을 Wheeler/Concord Ave(Fresh Pond) 쪽과 함께** 보세요.
+    → **거리만 본다면 아래 표(실측 순)를 기준으로** 삼으세요.
 
 아래는 각 단지 정문 좌표에서 **Alewife 역까지 실제 보행 네트워크 경로**를 측정한 값입니다(OpenStreetMap 기반 보행 라우팅, OSRM foot). 보행 속도 ~5km/h 가정. **Google 도보 길찾기 링크**로 직접 대조할 수 있습니다.
 
@@ -57,13 +57,13 @@
 | Fuse Cambridge | 1 | ~9분 | **$3,034+** (공식✓) | 531–552 sf | **$3,583+** (공식✓) | 704–749 sf | Bozzuto, LEED Silver |
 | Vox on Two | 2 | ~14분 | 가용 없음 (공식✓) | (620 sf) | **$3,048+** (공식✓) | 840–857 sf | 12세대 가용, 전부 1BR↑ |
 | Tempo Cambridge | 2 | ~14분 | ~$2,635–2,725 | 502–515 sf | ~$2,956–3,166 | 626–837 sf | 공식 미렌더, ApartmentList 기준 |
-| Atmark Cambridge | 2 | **~19분** | ~$2,575–2,717 | 569–588 sf | **$2,817+** (공식✓, 즉시) | 725–740 sf | 1개월 무료 공식✓ |
-| The Brook | 2 | **~20분** | 없음 | — | $2,925–3,300 | 671–983 sf | #506 신규 추가 |
 | The Laurent | 3 | ~16분 | **$2,370–2,626** (공식✓) | 451–525 sf | **$2,767+** (공식✓) | 583–838 sf | 전 스튜디오 ↓ $157–168, $1,000 off |
 | 603 Concord | 3 | ~14분 | **$3,000** (7/2, 공식✓) | 401 sf | **$3,100** (7/5, 공식✓) | 813 sf | "전화 문의 특가" |
 | 605 Concord | 3 | ~14분 | **$2,850 (6/19 확정, 공식✓)** | 512 sf | 문의(Micro 575/1BR 719) | 575–719 sf | 입주일 6/19로 확정 |
 | Park87 | 3 | ~14분 | 없음 | — | **1BR Plus $3,100** (6/15, 공식✓) | 787 sf | 기본 1BR 가용 없음 |
 | Park77 | 3 | ~14분 | 가용 없음 (공식✓) | 444 sf | 가용 없음 (공식✓) | 741 sf | 스튜디오·1BR 모두 공실 0 |
+| Atmark Cambridge | 3 | ~19분 | ~$2,575–2,717 | 569–588 sf | **$2,817+** (공식✓, 즉시) | 725–740 sf | 80 Fawcett St · 1개월 무료 공식✓ |
+| The Brook | 3 | ~20분 | 없음 | — | $2,925–3,300 | 671–983 sf | 95 Fawcett St · #506 신규 추가 |
 | The Royal Belmont | 4 | ~19분 | 가용 없음 (공식✓) | 596 sf | **$2,870–3,190** (공식✓) | 632–1,062 sf | 1BR 13세대(752sf ~$2,875×다수) |
 | Walden Park *(Porter)* | 4 | ~24분 | **$2,490+** (공식✓) | 539 sf | **$2,860+** (공식✓) | 625–760 sf | 스튜디오3·1BR6 가용 |
 | Chester Street *(Porter/Davis)* | 4 | ~21분 | **$2,200–2,400** (공식✓) | 380 sf | 가용 없음 (공식✓) | — | 스튜디오 6세대, 최저가 |
@@ -80,13 +80,13 @@
 | Fuse Cambridge | 없음 (공식✓) | n/p | 예 | 없음 | 스튜디오 7/22~, 1BR 즉시 |
 | Vox on Two | 없음 | 있음, n/p | 예 (full-size) | 없음 | 1BR 즉시(#330) |
 | Tempo Cambridge | 없음 (3BR만 $1,000 off) | 차고/커버드, n/p | 예 (포함) | 없음 | 1BR 즉시(A7.1C #2305) |
-| Atmark Cambridge | **1개월 무료** *(공식 RentCafe 확인, 혼선 해소)* | 차고+EV, n/p | 예 (front-load) | 없음 | 스튜디오 6/20~, 1BR 즉시 |
-| The Brook | 공식 없음 / aggregator "노브로커피·1개월 무료" *(미확인)* | $250/월 차고 | 예 | n/p | 1BR 9/1 |
 | The Laurent | **"투어 후 24시간 내 신청 시 $1,000 off"** (공식) | 예약 $250/월 | 예 (full-size) | n/p | 즉시~ (다수 공실) |
 | 603 Concord | **"한정 특가 — 전화 문의"** (공식, 06-06 "No offers"에서 변경) | 차고 $195 / 노상 $155 | 예 (전 세대) | **난방·온수** | 스튜디오 7/2, 1BR 7/5 |
 | 605 Concord | 명시 오퍼 없음 "전화 문의"(2BR 프로모 사라짐) | n/p (Alewife 무료 셔틀) | 예 | **난방·온수** | 스튜디오 6/19~6/30 |
 | Park87 | "2BR 1개월 무료" + **"1BR 2주 무료"**(정황·상충) | 차고+노상, n/p | 예 (전 세대) | n/p | 1BR Plus 6/15 |
 | Park77 | 공식 라이브에 스튜디오 프로모 미노출(aggregator엔 잔존) | 지하 차고+무료 EV, n/p | 예 | **난방·온수** | 공실 없음(문의) |
+| Atmark Cambridge | **1개월 무료** *(공식 RentCafe 확인, 혼선 해소)* | 차고+EV, n/p | 예 (front-load) | 없음 | 스튜디오 6/20~, 1BR 즉시 |
+| The Brook | 공식 없음 / aggregator "노브로커피·1개월 무료" *(미확인)* | $250/월 차고 | 예 | n/p | 1BR 9/1 |
 | The Royal Belmont | **"6/21/26까지 입주 시 1개월 무료"** (공식, 유지) | 차고, n/p | 예 (stackable) | n/p | 1BR 다수 (Norbert 10세대) |
 | Walden Park *(Porter)* | 없음(보증금 특가 만료) | $175/월(추정) | 미확인 | **가스·물·난방·쓰레기·하수·케이블·인터넷** | 문의 |
 | Chester Street *(Porter/Davis)* | **"1개월 무료 — 전 공실 대상"**(aggregator, 문구 확대) | $125/월 (세대당 1대) | 아니오 (공용 세탁실) | 난방·물 | 스튜디오 즉시~11월 |

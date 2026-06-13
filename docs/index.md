@@ -40,12 +40,12 @@
 
 ## 거리(Tier)별 분류
 
-이 조사는 Alewife 역까지의 도보 거리 기준으로 4개 티어로 나눴습니다.
+이 조사는 Alewife 역 인근을 **동네(거리 묶음) 기준**으로 4개 티어로 나눴습니다. 실측 도보거리는 [비교표](comparison.md)의 거리표 참고(Tier가 거리 순서와 항상 일치하지는 않음).
 
-- **Tier 1 — Cambridgepark Dr 클러스터 (도보 2-6분):** Cambridge Park, Urbane, Luxe, Hanover, Windsor at Cambridge Park, Fuse. 역에서 가장 가깝고 가장 새 건물들. 가격대는 중상위.
-- **Tier 2 — Concord Tpke / Fawcett St (도보 8-12분):** Vox on Two, Tempo, Atmark, The Brook. 가성비/세대수 많은 단지들.
-- **Tier 3 — Cambridge Highlands / Fresh Pond (도보 10-15분):** The Laurent, 603 Concord, 605 Concord, Park87, Park77. 일부는 난방·온수 포함.
-- **Tier 4 — Belmont / Porter (참고용):** The Royal Belmont(East Belmont, Rt-2 건너), Walden Park·Chester St(실제로는 Porter/Davis Square — Alewife와는 거리가 있음).
+- **Tier 1 — Cambridgepark Dr 클러스터 (실측 ~5-10분):** Cambridge Park, Urbane, Luxe, Hanover, Windsor at Cambridge Park, Fuse. 역에서 가장 가깝고 가장 새 건물들. 가격대는 중상위.
+- **Tier 2 — Concord Turnpike (실측 ~14분):** Vox on Two, Tempo. Rt-2 변 북서쪽, 세대수 많고 가성비.
+- **Tier 3 — Cambridge Highlands / Fresh Pond / Fawcett-Wheeler (실측 ~14-20분):** The Laurent, 603 Concord, 605 Concord, Park87, Park77, **Atmark, The Brook**. 일부는 난방·온수 포함. *(Atmark·The Brook은 06-13에 Tier 2에서 이동 — Fawcett St가 Wheeler St·Concord Ave와 같은 블록권이라.)*
+- **Tier 4 — Belmont / Porter (참고용, 실측 ~19-24분):** The Royal Belmont(East Belmont, Rt-2 건너), Walden Park·Chester St(실제로는 Porter/Davis Square — Alewife와는 거리가 있음).
 
 !!! info "조사 범위 — 누락 점검 결과 (Google 등 교차 확인)"
     시장가 임대 단지는 위 **18곳으로 사실상 완전**합니다. 추가 점검에서 확인된 것:
@@ -58,6 +58,6 @@
 
 - **역과의 거리 최우선 + 유틸 포함** → **Cambridge Park** (길 건너, 난방·쓰레기 포함, 주차 $100-150). 단, 소형 유닛도 비싼 편이고 현재 프로모션 없음.
 - **새 건물 + 공식 보너스** → **Luxe**(1개월 무료+보증금 $99, **06-13 공식 확인**) 또는 **Atmark**(1개월 무료, **공식 확인**). Urbane은 2주 무료가 공식엔 안 떠서(aggregator만) 전화 확인 권장.
-- **가격 최우선** → **The Laurent**(스튜디오 ~$2,370부터로 06-13 인하 + $1,000 off, 공실 많아 협상 유리), Tier 2의 **Tempo / Atmark**, 또는 (Davis Sq 감수 시) **Chester St ~$2,200**.
+- **가격 최우선** → **The Laurent**(스튜디오 ~$2,370부터로 06-13 인하 + $1,000 off, 공실 많아 협상 유리), **Tempo·Atmark**, 또는 (Davis Sq 감수 시) **Chester St ~$2,200**.
 - **확실한 1개월 무료를 지금 받고 싶다** → **The Royal Belmont**(6/21/26 입주 마감 임박) 또는 **The Laurent**($1,000 off, 24시간 내 신청), **Luxe·Atmark**(1개월 무료). 단 Royal Belmont는 East Belmont라 셔틀 의존.
 - **어포더블(소득제한) 자격이 될 수도** → 연소득이 1인 ~$96k / 2인 ~$110k 이하라면 케임브리지 인클루저너리 대상일 수 있음. 시장가와 **병행 등록** 권장 → [어포더블](affordable.md).
