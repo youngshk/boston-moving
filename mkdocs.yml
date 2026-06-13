@@ -1,5 +1,5 @@
 site_name: Alewife 아파트 시장조사
-site_description: 캠브리지 Alewife 역 인근 스튜디오·1베드 렌탈 시장조사 (2026-06 기준)
+site_description: 캠브리지 Alewife 역 인근 스튜디오·1베드 렌탈 시장조사 (2026-06-13 갱신)
 theme:
   name: material
   language: ko
@@ -35,7 +35,9 @@ markdown_extensions:
       permalink: true
 nav:
   - 개요: index.md
+  - 지도: map.md
   - 비교표: comparison.md
+  - 어포더블 (소득제한): affordable.md
   - 사인업 보너스 & 시즌성: promotions.md
   - 단지 상세:
       - "Tier 1 · Alewife 도보 2-6분": tier1.md

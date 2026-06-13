@@ -1,32 +1,63 @@
 # 사인업 보너스 & 시즌성
 
-## 현재(2026-06) 프로모션 정리
+## 현재(2026-06-13) 프로모션 정리
 
-공식 사이트 배너에서 직접 확인된 것과, aggregator에만 있어 확인이 필요한 것을 구분했습니다.
+공식 사이트 배너(또는 공식 RentCafe 피드)에서 직접 확인된 것과, aggregator에만 있어 확인이 필요한 것을 구분했습니다.
+
+!!! success "이번 회차(06-13) 변동 요약"
+    - **Luxe·Atmark**: aggregator "미확인" → **공식 확인으로 격상** (Luxe 1개월 무료+$99 / Atmark 1개월 무료).
+    - **603 Concord**: 06-06 "No offers" → **"한정 특가(전화 문의)" 신규 등장**.
+    - **Royal Belmont**: "6/21/26 입주 시 1개월 무료" **유지**(마감 임박, 8일 후). 검색에 보이는 "5/31 마감 6주 무료"는 만료된 과거 문구 — 무시.
+    - **605 Concord**: 2BR 2개월 무료가 사라지고 "전화 문의"로 전환.
+    - **Park87**: "1BR 2주 무료" 정황 추가(공식엔 여전히 2BR 1개월만 — 상충, 확인 필요).
 
 ### 공식 확인된 보너스
 
 | 단지 | 보너스 | 조건 |
 |---|---|---|
-| The Royal Belmont | **1개월 무료** | 6/21/26까지 입주 |
+| The Royal Belmont | **1개월 무료** | 6/21/26까지 입주 (마감 임박) |
 | The Laurent | **$1,000 off base rent** | 투어 후 24시간 내 신청, 12개월+ |
-| Hanover Alewife | 스튜디오 최대 4주+1주 무료 / 1BR 최대 2주 또는 $500 | 12개월 계약, "apply by Sunday" 주간 로테이션 |
+| Luxe at Alewife | **최대 1개월 무료 + 보증금 $99** | select homes, 승인된 신용 |
+| Atmark Cambridge | **1개월 무료 (base rent)** | 최소 임대기간 적용, 평면별 상이 |
+| Hanover Alewife | 스튜디오 최대 4주+1주 무료 / 1BR $500 | 12개월 계약, "apply by Sunday" 주간 로테이션 |
 | Park87 | 1개월 무료 | **2BR만** (1BR/스튜디오 제외) |
-| Park77 | 1개월 무료 | **스튜디오만**, 10개월+ (현재 스튜디오 공실 없음) |
+| 603 Concord | **"한정 특가 — 전화 문의"** | 내용 비공개, 617-996-7051 확인 |
 
 ### aggregator 표기 (공식 배너 미확인 — 전화 확인 필요)
 
 | 단지 | 광고된 보너스 |
 |---|---|
-| Luxe at Alewife | 최대 1개월 무료 + 보증금 $99 |
-| Urbane at Alewife | 2주 무료 ("특가 없음"과 상충) |
-| Atmark Cambridge | 1개월 무료 또는 0.5개월 (상충) |
-| The Brook | 노브로커피 / 12개월 무료 주차 / 일부 2개월 무료 |
-| 603 Concord | 1BR 1개월 무료 (공식은 "No offers") |
+| Urbane at Alewife | 2주 무료 (공식 Greystar/ApartmentList엔 "없음" — 상충) |
+| The Brook | 노브로커피 / 일부 1개월 무료 (공식 미확인) |
+| Park87 | 1BR 2주 무료 (공식 라이브엔 2BR만) |
+| Park77 | 스튜디오 1개월 무료 (공식 라이브엔 미노출, 현재 스튜디오 공실 없음) |
+| Chester Street | 1개월 무료 — 전 공실 대상 (공식 미게시) |
 
 ### 현재 보너스 없음
 
-Cambridge Park, Vox on Two, Tempo(스튜디오/1BR), 605 Concord(스튜디오/1BR), Walden Park.
+Cambridge Park, Vox on Two, Tempo(스튜디오/1BR), 605 Concord(명시 오퍼 없음·문의), Walden Park.
+
+## 리퍼럴(Resident Referral) 할인
+
+!!! info "핵심: 리퍼럴 보너스는 보통 \"기존 입주민\"이 받습니다"
+    전형적 구조 — 기존 입주민이 친구를 추천 → 친구가 실제 계약·입주 → **기존 입주민에게** 보통 $500~$1,000 렌트 크레딧. 신규 입주자(나)가 직접 받는 구조는 드물고, 받더라도 "양방향(dual-sided)" 프로그램일 때 소액입니다. 즉 **이미 그 단지에 사는 지인을 통해 추천받고 크레딧을 나누는** 식이 현실적입니다. 또한 리퍼럴은 거의 항상 **계약서 작성 전에 등록**해야 인정됩니다(입주 후 소급 X).
+
+| 운영사 | 해당 단지 | 리퍼럴 프로그램 | 금액 |
+|---|---|---|---|
+| **Bozzuto** | Cambridge Park, The Laurent | **존재 확인** (공식 "Refer a Friend") | 미공개 |
+| **Windsor** | Vox on Two | **존재 확인** (resident services "Referral Bonuses") | 미공개(검색상 $300 언급, 보류) |
+| Greystar | Urbane, Atmark | 미확인 | 미확인 |
+| Equity Residential | Walden Park | 미확인(페이지 403) | 미확인 |
+| Acorn/Abodez | Luxe, 603·605, Park77/87 | 미확인 | 미확인 |
+| Harbor Group | The Royal Belmont | 미확인 | 미확인 |
+| Willow Bridge | Tempo | 미확인(상충) | 미확인 |
+| Hanover | Hanover Alewife | 미확인 | 미확인 |
+
+!!! warning "솔직한 한계"
+    이번 조사에서 **구체적 리퍼럴 금액을 공식 확인한 단지는 0곳**입니다. Bozzuto·Windsor만 프로그램의 *존재*를 공식 페이지에서 확인했습니다. 리퍼럴은 웹에 광고되지 않는 경우가 많아 **리싱 오피스에 직접 물어야** 합니다: *"Do you have a resident referral program? How much, and who receives the credit?"* 업계 일반 금액대는 $200~$1,000입니다(이 단지들의 실제 금액 아님).
+
+- Bozzuto Refer a Friend: <https://www.bozzuto.com/refer-a-friend/>
+- Windsor For Residents: <https://www.windsorcommunities.com/for-residents/>
 
 !!! tip "협상 팁"
     Cambridge 렌탈은 공식 배너가 없어도 전화/방문 시 "look-and-lease"(즉시 계약) 또는 비어 있는 특정 유닛에 대해 1-2주 무료, application fee/admin fee 면제, 주차 1-2개월 무료 등을 즉석에서 제안하는 경우가 많습니다. 특히 입주 가능일이 임박했거나 공실이 오래 빈 유닛일수록 여지가 큽니다.
