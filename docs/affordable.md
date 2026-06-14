@@ -85,12 +85,62 @@
 4. 즉시 입주가 급하면 어포더블은 백업으로 등록해 두고 **시장가 유닛과 병행**하는 게 현실적.
 
 !!! tip "대기 시간 — 솔직히"
-    공식 평균 대기기간은 공개되어 있지 않습니다. 수요가 매우 높아 일반적으로 **수개월~수년**이 걸린다고 알려져 있습니다(일반론). 상시 풀이므로 "지금 등록해 두고 기다리는" 전략이 맞고, 우선순위가 있으면 체감 대기가 짧아집니다.
+    공식 평균 대기기간은 공개돼 있지 않지만, **실제 신청자 경험상 잘 맞는 1인 가구·케임브리지 거주자는 ~1년 안에 첫 오퍼**를 받기도 합니다(아래 §6 경험담). 가구가 크거나(2·3BR) 점수가 낮으면 **수년**까지 길어집니다. 상시 풀이라 "지금 등록해 두고 기다리는" 전략이 맞습니다.
+
+## 6. 신청 → 배정까지: 절차·기간·거절 시 (공식 + 실제 경험)
+
+### 절차 흐름 (공식 가이던스)
+
+1. **예비 신청서(Preliminary Application) 제출** → 상시 "waiting pool"에 접수일 기준으로 등록.
+2. 빈 유닛 발생 → 해당 크기의 **최상위 우선순위 그룹** 신청자에게 **Final Application**(소득·자산 재심사) 요청.
+3. 적격 시 → 관리회사의 **credit / CORI(범죄경력) / (경우에 따라) 임대 레퍼런스** 심사.
+4. 통과 → **유닛을 직접 보여주고, 임대 여부를 24시간 내 결정.**
+5. 수락 → 임대계약 후 **30일 이내 입주.**
+
+### 우선순위 점수 (공식)
+
+| 항목 | 점수 |
+|---|---|
+| 현재 케임브리지 **거주자** | **+4** |
+| 18세 미만 자녀 있는 가구 | +1 |
+| 6세 미만 자녀 있는 가구 | +1 (위와 별도, 최대 +2) |
+| 응급 주거 필요 | +1 |
+
+거주자를 모두 고려한 뒤, 케임브리지 **근무자**에게 같은 체계로 우선권. **동일 점수 그룹 내에서는 신청서 접수일 순.**
+
+### 거절(Decline)·타이밍 안 맞을 때 (가장 궁금해하는 부분, 공식)
+
+- 유닛이 맘에 안 들거나 시기가 안 맞으면 **거절할 수 있습니다.** 별도의 "보류/deferral" 제도는 없고, **거절(decline)로 처리**됩니다.
+- **서로 다른 3개 property의 유닛을 거절하면 → 해당 우선순위 그룹의 맨 뒤로 이동 + 최대 180일(약 6개월) 동안 오퍼 보류**, 이후 다시 연락.
+- 즉 **1~2회 거절은 페널티 없이 자리 유지**, 3회째에 ~6개월 타임아웃. **완전 탈락은 아닙니다.**
+- ⚠️ 공식 문서는 거절 **사유를 구분하지 않습니다** — "타이밍이 안 맞아서"도 그냥 1회 카운트(정당사유 면제 조항 없음).
+
+### Final Application "탈락"은 거절과 다름 (공식)
+
+- credit/레퍼런스 사유로 **4개** 관리회사에서 거부 → **풀에서 제거.** CORI 사유로 **2개** 거부 → 제거. 통보 후 **5영업일 내 서면 이의제기** 가능.
+
+### 신청 유지 (공식)
+
+- 자동 만료 기한은 명시 없음. 단 **CDD의 갱신·증빙 요청에 신속히 응답**해야 하며, 소득·가구원·거주/근무·바우처 변동은 **서면으로 업데이트**(접수일 순서는 유지). 입주 후 **매년 소득 재인증.**
+
+### 실제 신청자 경험담 (r/CambridgeMA, 일화)
+
+!!! quote "Reddit — \"Cambridge inclusionary housing\" 스레드"
+    - **대기 기간:** *"2024년 4월에 신청해서 2025년 3월에 final application 제출 letter를 받았다"* — **약 11개월**. (1BR, 케임브리지 거주자 4점) · *"생각보다 안 힘들었다. 가족·커플로 신청하면 여러 명 서류라 더 힘들 듯."*
+    - **거절 경험(공식 규정과 일치):** *"5월에 3곳을 제안받았는데 사실상 미룰 수가 없어서 3곳 다 거절했다. 그랬더니 12월(6개월 뒤)에 다시 연락 준다더라. 다음엔 받을 듯. 3곳 중 2곳은 정말 좋았다."*
+    - **소유(condo) 트랙:** *"16년 전 이 프로그램으로 콘도를 샀다. 감당 가능한 집에 살아서 더없이 만족. 모기지라 가격이 안 오른다. 시가 과정을 잘 안내해줬다."*
+
+    출처: [old.reddit.com/r/CambridgeMA — Cambridge inclusionary housing](https://old.reddit.com/r/CambridgeMA/comments/1jnbv1l/cambridge_inclusionary_housing/) (Playwright로 직접 확인). 개인 일화이므로 일반화 주의.
+
+!!! warning "정책 리스크 (참고)"
+    한 개발자(Patrick Barrett)가 케임브리지 인클루저너리 조닝의 위헌(takings)을 주장하며 **소송 중**(2026년 진행, Land Court). 결과에 따라 장기적으로 제도가 바뀔 수 있으나, **현재 신청자의 절차에는 영향 없음.** ([WBUR](https://www.wbur.org/upnext/2026/01/29/massachusetts-inclusionary-zoning-laws-barrett-land-court))
 
 ## 출처
 
 - [Inclusionary Housing 개요 (CDD)](https://www.cambridgema.gov/cdd/housing/inclusionaryhousing)
-- [Rental Applicant Pool (CDD)](https://www.cambridgema.gov/cdd/housing/forapplicants/rentalapplicantpool)
+- [Rental Applicant Pool (CDD)](https://www.cambridgema.gov/cdd/housing/forapplicants/rentalapplicantpool) · [Rental Pool FAQ](https://www.cambridgema.gov/CDD/housing/forapplicants/rentalapplicantpool/rentalfaq.aspx)
+- [Inclusionary Rental 예비신청 가이던스 PDF (절차·우선순위·거절 규정)](https://www.cambridgema.gov/-/media/files/cdd/housing/forapplicants/hsg_inclusionary_rental_app.pdf)
+- [r/CambridgeMA — 실제 경험담 스레드](https://old.reddit.com/r/CambridgeMA/comments/1jnbv1l/cambridge_inclusionary_housing/)
 - [For Renters of Inclusionary Units (CDD)](https://www.cambridgema.gov/cdd/housing/forrenters/forrentersofcityinclusionaryunits)
 - [Middle-Income Rental Program (CDD)](https://www.cambridgema.gov/CDD/housing/forapplicants/middleincomerentalprogram)
 - [2026 소득 한도표 PDF (2026-06-01 발효)](https://www.cambridgema.gov/-/media/Files/CDD/Housing/incomelimits/hudincomeguidelines.pdf)
