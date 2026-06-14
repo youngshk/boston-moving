@@ -123,14 +123,30 @@
 
 - 자동 만료 기한은 명시 없음. 단 **CDD의 갱신·증빙 요청에 신속히 응답**해야 하며, 소득·가구원·거주/근무·바우처 변동은 **서면으로 업데이트**(접수일 순서는 유지). 입주 후 **매년 소득 재인증.**
 
-### 실제 신청자 경험담 (r/CambridgeMA, 일화)
+### 실제 대기 기간 — 사례·여론 (Reddit, 일화)
 
-!!! quote "Reddit — \"Cambridge inclusionary housing\" 스레드"
+!!! info "먼저 — \"풀(pool)\" vs \"추첨(lottery)\"이 체감 대기를 가른다"
+    **케임브리지 인클루저너리 = 단일 "상시 풀"**(한 번 신청 → 점수·접수일 순으로 모든 참여 건물에 자동 고려). 반면 **보스턴 BPDA·다른 도시 = 건물별 "추첨"**(빈 건물마다 매번 따로 응모). 그래서 보스턴 쪽 경험담은 "여러 해·수십 번 응모" 톤이 강하고, 케임브리지는 점수가 좋으면 더 짧을 수 있습니다. 아래 사례를 이 차이와 함께 보세요.
+
+!!! quote "① 케임브리지 인클루저너리 (r/CambridgeMA) — 가장 직접적인 사례"
     - **대기 기간:** *"2024년 4월에 신청해서 2025년 3월에 final application 제출 letter를 받았다"* — **약 11개월**. (1BR, 케임브리지 거주자 4점) · *"생각보다 안 힘들었다. 가족·커플로 신청하면 여러 명 서류라 더 힘들 듯."*
     - **거절 경험(공식 규정과 일치):** *"5월에 3곳을 제안받았는데 사실상 미룰 수가 없어서 3곳 다 거절했다. 그랬더니 12월(6개월 뒤)에 다시 연락 준다더라. 다음엔 받을 듯. 3곳 중 2곳은 정말 좋았다."*
     - **소유(condo) 트랙:** *"16년 전 이 프로그램으로 콘도를 샀다. 감당 가능한 집에 살아서 더없이 만족. 모기지라 가격이 안 오른다. 시가 과정을 잘 안내해줬다."*
 
-    출처: [old.reddit.com/r/CambridgeMA — Cambridge inclusionary housing](https://old.reddit.com/r/CambridgeMA/comments/1jnbv1l/cambridge_inclusionary_housing/) (Playwright로 직접 확인). 개인 일화이므로 일반화 주의.
+    출처: [r/CambridgeMA — Cambridge inclusionary housing](https://old.reddit.com/r/CambridgeMA/comments/1jnbv1l/cambridge_inclusionary_housing/)
+
+!!! quote "② 보스턴 BPDA 추첨 (r/bostonhousing) — 비교군(케임브리지보다 길게 느껴지는 이유)"
+    - *"여러 해에 걸쳐 **20번 넘게 추첨에 응모**한 끝에 드디어 다음 단계 초대를 받았다. (Metrolist의 BPDA '어포더블' 유닛) **2020년 초에 신청**해서 방금 연락받았다."* → 추첨제는 **수년 + 다회 응모**가 흔함.
+    - *"내가 22살이고 남자친구랑 (자녀 없이) 구하는 거라 불리한 것 같다 — 추첨은 사실상 (자녀 있는) 이재민 가구에 유리하다."* → **자녀 없는 젊은 1·2인은 점수에서 밀린다는 체감**(케임브리지도 자녀·거주자 가점 구조라 동일 경향).
+
+    출처: [r/bostonhousing — Affordable housing lottery timeline?](https://old.reddit.com/r/bostonhousing/comments/k09l2y/affordable_housing_lottery_timeline/)
+
+!!! tip "사례 종합 (정직한 정리)"
+    - **케임브리지 인클루저너리(50–80% AMI), 점수 좋은 1인·거주자:** 직접 사례 기준 **신청→첫 오퍼 ~1년**(스튜디오/1BR). 표본은 적음(핵심 사례 1건).
+    - **가구가 크거나(2·3BR)·점수 낮으면:** 더 길어짐. 자녀·거주 가점이 없으면 체감 대기↑.
+    - **CHA 공공주택/Section 8(더 깊은 보조):** 언론·전직 이사 표현으로 **"확실히 연 단위"**, 대기자 22,000명+ — 인클루저너리보다 훨씬 김.
+    - **보스턴 BPDA 추첨:** "수년 + 20번+ 응모" 사례. **케임브리지 풀과 구조가 다름**(직접 비교 주의).
+    - ⚠️ 모두 **개인 일화**이며 표본이 작습니다. 본인 케이스 추정은 CDD(617-349-4622)에 직접 문의가 가장 정확합니다.
 
 !!! warning "정책 리스크 (참고)"
     한 개발자(Patrick Barrett)가 케임브리지 인클루저너리 조닝의 위헌(takings)을 주장하며 **소송 중**(2026년 진행, Land Court). 결과에 따라 장기적으로 제도가 바뀔 수 있으나, **현재 신청자의 절차에는 영향 없음.** ([WBUR](https://www.wbur.org/upnext/2026/01/29/massachusetts-inclusionary-zoning-laws-barrett-land-court))
@@ -140,7 +156,7 @@
 - [Inclusionary Housing 개요 (CDD)](https://www.cambridgema.gov/cdd/housing/inclusionaryhousing)
 - [Rental Applicant Pool (CDD)](https://www.cambridgema.gov/cdd/housing/forapplicants/rentalapplicantpool) · [Rental Pool FAQ](https://www.cambridgema.gov/CDD/housing/forapplicants/rentalapplicantpool/rentalfaq.aspx)
 - [Inclusionary Rental 예비신청 가이던스 PDF (절차·우선순위·거절 규정)](https://www.cambridgema.gov/-/media/files/cdd/housing/forapplicants/hsg_inclusionary_rental_app.pdf)
-- [r/CambridgeMA — 실제 경험담 스레드](https://old.reddit.com/r/CambridgeMA/comments/1jnbv1l/cambridge_inclusionary_housing/)
+- [r/CambridgeMA — 실제 경험담 스레드](https://old.reddit.com/r/CambridgeMA/comments/1jnbv1l/cambridge_inclusionary_housing/) · [r/bostonhousing — 추첨 타임라인 사례](https://old.reddit.com/r/bostonhousing/comments/k09l2y/affordable_housing_lottery_timeline/)
 - [For Renters of Inclusionary Units (CDD)](https://www.cambridgema.gov/cdd/housing/forrenters/forrentersofcityinclusionaryunits)
 - [Middle-Income Rental Program (CDD)](https://www.cambridgema.gov/CDD/housing/forapplicants/middleincomerentalprogram)
 - [2026 소득 한도표 PDF (2026-06-01 발효)](https://www.cambridgema.gov/-/media/Files/CDD/Housing/incomelimits/hudincomeguidelines.pdf)

@@ -127,7 +127,7 @@ Alewife 역에서 가장 가까운 6개 단지(Cambridgepark Dr 30·50·80·130�
 ---
 
 ## Fuse Cambridge
-**165 Cambridgepark Dr, Cambridge 02140** · Bozzuto · LEED Silver
+**165 Cambridgepark Dr, Cambridge 02140** · 2015년 건축(Hines 개발 → Bozzuto 관리) · LEED Silver
 
 🌐 [공식 사이트](https://www.fusecambridge.com) · 📍 [Google 지도](https://www.google.com/maps/search/Fuse+Cambridge+165+Cambridgepark+Dr+Cambridge+MA)
 
