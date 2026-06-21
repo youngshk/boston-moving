@@ -3,7 +3,9 @@
     "allow": [
       "WebSearch",
       "Skill(deep-research)",
-      "WebFetch(domain:www.apartments.com)"
+      "WebFetch(domain:www.apartments.com)",
+      "Bash(python3 -c \"import playwright; print\\('playwright OK', playwright.__version__\\)\")",
+      "Bash(python3 -c 'from playwright.sync_api import sync_playwright; print\\('\\\\''chromium check'\\\\''\\); *)"
     ]
   }
 }

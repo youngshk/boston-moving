@@ -12,18 +12,18 @@ Alewife에서 다소 떨어졌거나 행정구역이 다른 단지들. The Royal
 
 🌐 [공식 사이트](https://www.harborgroupmanagement.com/apartments/ma/belmont/the-royal-belmont/) · 📍 [Google 지도](https://www.google.com/maps/search/The+Royal+Belmont+375+Acorn+Park+Dr+Belmont+MA)
 
-- **스튜디오:** "Alford" 596 sf — **현재 공실 없음**(공식 Knock API에 스튜디오 가용 0).
+- **스튜디오:** **"Alford" 0X1 596 sf — $2,740 (#3407, 8/31) (06-20 신규 가용!)** — 06-13엔 스튜디오 가용 0이었으나 공식 Knock API에 1세대 등장.
 - **1BR (공식 Knock API 라이브, 13세대 가용):**
 
     | 평면 | 크기 | 월세 | 가용 |
     |---|---|---|---|
-    | Christensen (1X1A) | 632 sf | **$2,870** (#4416, 즉시) | 1세대 |
-    | Norbert (1X1B) | 752 sf | **$2,875–2,990** (#1311·5304·4308 등) | **10세대** |
-    | Lawrence (1X1F) | 1,062 sf | **$3,090** (#2411 7/30), $3,190 (#1408 8/12) | 2세대 |
+    | Christensen (1X1A) | 632 sf | **$2,895** (#4416, 즉시) | 1세대 |
+    | Norbert (1X1B) | 752 sf | **$2,860–3,015** (#3101 8/24·다수 즉시) | **다수** |
+    | Lawrence (1X1F) | 1,062 sf | (현재 라이브 미노출) | — |
 
-    > 참고 2BR: 2X2A 1,004sf $3,760–3,875(9세대), 2X2B 1,223sf $4,005–4,030(2세대).
+    > 참고 2BR: 2X2A 1,004sf $3,790–3,895, 2X2B 1,223sf $4,035–4,060.
 
-- **사인업 보너스(공식):** **"Get 1 month FREE with a move-in by 6/21/26!"** (조건 적용) — **06-13 확인: 그대로 유지, 마감 임박(8일 후). 가격·공실 모두 06-06과 100% 동일.** ⚠️ 검색에 보이는 "5/31 마감 6주 무료"는 만료된 과거 문구이니 무시.
+- **사인업 보너스(공식):** **"Get 1 month FREE with a move-in by 6/21/26!"** (조건 적용) — **06-20 확인: 유지되나 마감이 내일(6/21)로 임박.** ⚠️ 검색에 보이는 "5/31 마감 6주 무료"는 만료된 과거 문구이니 무시.
 - **주차:** 차고 옵션, 금액 n/p
 - **In-unit 세탁/건조:** 예 (stackable)
 - **유틸:** n/p
@@ -34,7 +34,7 @@ Alewife에서 다소 떨어졌거나 행정구역이 다른 단지들. The Royal
     - 👍 빠른·도움되는 메인터넌스, 어메니티(풀·피트니스·그래닛/하드우드·in-unit W/D), 일부 장기 거주·재계약.
     - 👎 **방음 매우 나쁨**(메탈빔 구조, "바닥·벽이 거대한 드럼"), 엘리베이터/HVAC 소음(>90dBA 보고), 택배 관리 중단(보안·정리 우려).
     - 💬 "Worst soundproofing I've experienced... shouldn't live here if you want a good night's sleep." vs "has been a great place to live" (15개월 재계약자)
-- 출처: harborgroupmanagement.com Knock API(06-13 Playwright로 유닛 단위 라이브 직접 확인). 사인업 보너스는 공식 사이트 배너.
+- 출처: harborgroupmanagement.com Knock API(06-20 Playwright로 유닛 단위 라이브 직접 확인). 사인업 보너스는 공식 사이트 배너.
 
 ---
 
@@ -43,9 +43,9 @@ Alewife에서 다소 떨어졌거나 행정구역이 다른 단지들. The Royal
 
 🌐 [공식 사이트](https://www.equityapartments.com/boston/porter-square/walden-park-apartments) · 📍 [Google 지도](https://www.google.com/maps/search/Walden+Park+205+Walden+St+Cambridge+MA)
 
-- **스튜디오 (공식 Equity 라이브, 3세대):** **$2,490부터** / 539 sf — #Floor2 $2,490 (8/7), Floor1 $2,567 (7/31), Floor5 $2,622 (7/7). 06-06 Zumper값($2,528~)보다 공식이 더 낮음.
-- **1BR (공식, 6세대):** **$2,860부터** / 625–760 sf — 625sf $2,860 (즉시), $2,925, 760sf $3,120 (9/10), $3,122, 625sf $3,132 (7/24).
-- **2BR:** 현재 가용 0 (대기 등록).
+- **스튜디오 (공식 Equity 라이브):** **$2,622부터** / 539 sf — **06-13 $2,490 대비 ↑약 $132**(저가 매물 소진).
+- **1BR (공식):** **$2,865부터** / 625–760 sf — 06-13 $2,860 대비 ~보합.
+- **2BR:** 현재 "Coming soon"(대기 등록).
 - **사인업 보너스:** 없음 — "$199 보증금" 특가는 만료(3/31~4/15/26).
 - **주차:** $175/월 (위젯 외 정보, 미변경 추정)
 - **In-unit 세탁/건조:** 미확인 (공용/일부 세대 가능성)
@@ -56,4 +56,4 @@ Alewife에서 다소 떨어졌거나 행정구역이 다른 단지들. The Royal
     - 👍 우수한 프론트데스크·리싱 스태프(Krystal·Julia 실명)와 커뮤니티, 빠른 메인터넌스(당일/익일), 넓은 수납(워크인+다수 클로짓), 어메니티(짐·야외풀·그릴).
     - 👎 (주로 과거 리뷰) 해충(쥐·바퀴 1건), 층간소음·얇은 벽, 욕실 노후, 갱신/렌트 인상 정책. 최근 리뷰는 긍정 우세.
     - 💬 "even better staff. Julia and Krystal help everyone feel welcome." (~2026)
-- 출처: equityapartments.com(06-13 Playwright로 공식 라이브 availability 직접 렌더링 확인)
+- 출처: equityapartments.com(06-20 Playwright로 공식 라이브 availability 직접 렌더링 확인)

@@ -120,7 +120,17 @@ def parse():
                 ud = j["units_data"]
                 lay = {l["id"]: l for l in ud.get("layouts", [])}
                 print(f"\n### {slug} (Knock, {len(ud.get('units', []))} units)")
-                for unit in sorted(ud.get("units", []), key=lambda x: (x.get("bedrooms", 9), x.get("price") or 0)):
+                def _sk(x):
+                    try:
+                        b = int(x.get("bedrooms"))
+                    except (TypeError, ValueError):
+                        b = 9
+                    try:
+                        pr = float(x.get("price"))
+                    except (TypeError, ValueError):
+                        pr = 0
+                    return (b, pr)
+                for unit in sorted(ud.get("units", []), key=_sk):
                     L = lay.get(unit.get("layoutId"), {})
                     print(f"  {unit.get('bedrooms')}BR {str(L.get('name'))[:10]:10} {L.get('area')}sf "
                           f"#{unit.get('name')} ${unit.get('price')} avail={unit.get('availableOn')}")
